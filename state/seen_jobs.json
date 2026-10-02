@@ -1,33 +1,854 @@
 {
-  "updated": "2026-10-01T03:31:52",
-  "job_ids": [
-    "017c040d9761ad9d21081b1b",
-    "03142fe3103fafe884e5ef45",
-    "0958215740e9d1c80e010b20",
-    "1bf7461c909644b333cb0a42",
-    "1fa0cb54ef63be1a5e8e9f8e",
-    "2aaa139ac4d7079c85871357",
-    "3f11cfc66ea1a90d6ca993f4",
-    "3f81fb30ec58494ea3e3233b",
-    "438a09f661377a891b424f0a",
-    "6023ad9bc4ccc0eeb967b32f",
-    "60987e047402902fa2a77e7d",
-    "6a890751c515c6e4af27cc55",
-    "850f10b98690a8d0e17abf38",
-    "85c602221f099f3c170cb7e8",
-    "8895d4da82dc31485363924d",
-    "89556b5cdd1e1d57f9729f0f",
-    "8c3aa0b85fda37f7c1ec9769",
-    "91f3e407badaf9f1dceba7c2",
-    "9610e7e7c3e01a52ee38e398",
-    "a213a8d5111e30c9cf78a05e",
-    "aa22cbc7b85adac3fcae690c",
-    "aec09721b26e6fcd1d18b900",
-    "b244c4feb67db5e90c8524db",
-    "b2f8b3012139447dfd374177",
-    "c601d9e2904c394030d10281",
-    "d2b91a167b1eb709e5b0098c",
-    "ebb28f4eddb5589a9f51c7f8",
-    "f9a06c9713f2cfa44f9ba8c2"
-  ]
+  "version": 2,
+  "updated": "2026-10-02T03:32:08",
+  "entries": {
+    "017c040d9761ad9d21081b1b": {},
+    "03142fe3103fafe884e5ef45": {},
+    "0958215740e9d1c80e010b20": {},
+    "1bf7461c909644b333cb0a42": {},
+    "1fa0cb54ef63be1a5e8e9f8e": {},
+    "2aaa139ac4d7079c85871357": {},
+    "3f11cfc66ea1a90d6ca993f4": {},
+    "3f81fb30ec58494ea3e3233b": {},
+    "438a09f661377a891b424f0a": {},
+    "6023ad9bc4ccc0eeb967b32f": {},
+    "60987e047402902fa2a77e7d": {},
+    "6a890751c515c6e4af27cc55": {},
+    "850f10b98690a8d0e17abf38": {},
+    "85c602221f099f3c170cb7e8": {},
+    "8895d4da82dc31485363924d": {},
+    "89556b5cdd1e1d57f9729f0f": {},
+    "8c3aa0b85fda37f7c1ec9769": {},
+    "91f3e407badaf9f1dceba7c2": {},
+    "9610e7e7c3e01a52ee38e398": {},
+    "a213a8d5111e30c9cf78a05e": {},
+    "aa22cbc7b85adac3fcae690c": {},
+    "aec09721b26e6fcd1d18b900": {},
+    "b244c4feb67db5e90c8524db": {},
+    "b2f8b3012139447dfd374177": {},
+    "c601d9e2904c394030d10281": {},
+    "d2b91a167b1eb709e5b0098c": {},
+    "ebb28f4eddb5589a9f51c7f8": {},
+    "f9a06c9713f2cfa44f9ba8c2": {},
+    "fp:00fa4ca31813d5ec": {
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "company": "scaleai",
+      "role": "Machine Learning Fellow - Human Frontier Collective (Canada)",
+      "job_id": "9f202b812e6c92b353ef4f37",
+      "sources": [
+        "greenhouse"
+      ]
+    },
+    "fp:032e98a7e2f53877": {
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "company": "Radar Labs",
+      "role": "Software Engineers (SRE, ML, backend, full-stack, mobile, security, QA)",
+      "job_id": "e6a6ba3e3450516f9891d84b",
+      "sources": [
+        "hn_whos_hiring"
+      ]
+    },
+    "fp:03b5041289bcc041": {
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "company": "Shield AI",
+      "role": "GenAI Tooling & DevEx",
+      "job_id": "ca0a65a5f29429bf7496727c",
+      "sources": [
+        "hn_whos_hiring"
+      ]
+    },
+    "fp:06391fd40475390f": {
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "company": "Sumble",
+      "role": "Unknown role",
+      "job_id": "735f5f9f35d891e456d7db86",
+      "sources": [
+        "hn_whos_hiring"
+      ]
+    },
+    "fp:098dfb8b187dc8c6": {
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "company": "cursor",
+      "role": "GTM Applications Engineer",
+      "job_id": "e3c0fcbbb50902bc85dd099d",
+      "sources": [
+        "ashby"
+      ]
+    },
+    "fp:0af3d9fbb6010adf": {
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "company": "scaleai",
+      "role": "Machine Learning Engineer, Platform",
+      "job_id": "89b0bd38a2b04c3583439231",
+      "sources": [
+        "greenhouse"
+      ]
+    },
+    "fp:0c08fbf8d98c1836": {
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "company": "Sidel",
+      "role": "Advanced Data Analyst",
+      "job_id": "4ba4dffdcaaa586c1d208398",
+      "sources": [
+        "linkedin"
+      ]
+    },
+    "fp:1c8175d628ed3f65": {
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "company": "SerpApi",
+      "role": "Junior to Senior Fullstack Engineer multiple positions",
+      "job_id": "6d3cf6db32008ef20f9856c4",
+      "sources": [
+        "hn_whos_hiring"
+      ]
+    },
+    "fp:20870df9b067c0bd": {
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "company": "MONUMENTAL",
+      "role": "Amsterdam, The Netherlands",
+      "job_id": "dc96625f884acce3ee5a9acc",
+      "sources": [
+        "hn_whos_hiring"
+      ]
+    },
+    "fp:2d8103cd6696ab55": {
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "company": "SwingVision",
+      "role": "Berkeley, CA",
+      "job_id": "2740689f03de67b8621e927b",
+      "sources": [
+        "hn_whos_hiring"
+      ]
+    },
+    "fp:2e0dd618daa81025": {
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "company": "AI CERTs\u00ae - India",
+      "role": "Data Analyst &#8211; Startups",
+      "job_id": "fdef820c3337c95a416bb560",
+      "sources": [
+        "linkedin"
+      ]
+    },
+    "fp:3118ac7504c91a79": {
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "company": "scaleai",
+      "role": "Machine Learning Fellow - Human Frontier Collective (UK)",
+      "job_id": "05f6f83c350279f1bea60737",
+      "sources": [
+        "greenhouse"
+      ]
+    },
+    "fp:320678eabb2b6774": {
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "company": "Tether",
+      "role": "AI Harness Engineer",
+      "job_id": "a2db5202417097a9ccc8f84e",
+      "sources": [
+        "hn_whos_hiring"
+      ]
+    },
+    "fp:377f76ceb3d7fb79": {
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "company": "cursor",
+      "role": "Full Stack Analyst, GTM",
+      "job_id": "0e11598774b073f31e5b8602",
+      "sources": [
+        "ashby"
+      ]
+    },
+    "fp:3ce6a5a1a874fca5": {
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "company": "matchgroup",
+      "role": "Product Data Analyst",
+      "job_id": "d2fa955721d1ab3c55d9e237",
+      "sources": [
+        "lever"
+      ]
+    },
+    "fp:3ebf767671e27f01": {
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "company": "Hestus",
+      "role": "Machine Learning Engineer (Python, ML)",
+      "job_id": "8d8e3c91a4a76e7781dc34c3",
+      "sources": [
+        "hn_whos_hiring"
+      ]
+    },
+    "fp:408106901cfe4f10": {
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "company": "notion",
+      "role": "Data Science Intern (Winter 2027)",
+      "job_id": "17c48f34e2458cd4e60dc5e3",
+      "sources": [
+        "ashby"
+      ]
+    },
+    "fp:4b416676d9dedf57": {
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "company": "scaleai",
+      "role": "Infrastructure Software Engineer, Enterprise GenAI",
+      "job_id": "69457e20a0f5d90ac78b2c43",
+      "sources": [
+        "greenhouse"
+      ]
+    },
+    "fp:4eab2869bb49be3c": {
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "company": "Datamint",
+      "role": "Rust Systems Engineer, Browser Security",
+      "job_id": "b7ee90a29fc52f898d95abc8",
+      "sources": [
+        "hn_whos_hiring"
+      ]
+    },
+    "fp:4f7b3300e1c8f463": {
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "company": "perplexity",
+      "role": "Internship - Machine Learning Research Engineer",
+      "job_id": "caecb230f168a36b54dd86b4",
+      "sources": [
+        "ashby"
+      ]
+    },
+    "fp:528c1832ce1a79e8": {
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "company": "SourcingXPress",
+      "role": "Machine Learning Engineer",
+      "job_id": "d2b91a167b1eb709e5b0098c",
+      "sources": [
+        "linkedin"
+      ]
+    },
+    "fp:5342051a9c8c2766": {
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "company": "Sheer Health",
+      "role": "New York, NY",
+      "job_id": "90758dc3294fe3cdf01c36cf",
+      "sources": [
+        "hn_whos_hiring"
+      ]
+    },
+    "fp:54ded4b2e495ce69": {
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "company": "Hiring: AI, Data, DevOps & Full Stack Engineers",
+      "role": "Unknown role",
+      "job_id": "91c3beb1e56747a2ac15a2e5",
+      "sources": [
+        "hn_whos_hiring"
+      ]
+    },
+    "fp:5e3b4ec448bf6628": {
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "company": "PrairieLearn",
+      "role": "Unknown role",
+      "job_id": "01d17491c58c9f45cf1386dd",
+      "sources": [
+        "hn_whos_hiring"
+      ]
+    },
+    "fp:62751d99080ebea5": {
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "company": "City Detect",
+      "role": "Full Stack Product Engineer (Design & Geospatial)",
+      "job_id": "b1e0bb4d8bc78d8f2333a929",
+      "sources": [
+        "hn_whos_hiring"
+      ]
+    },
+    "fp:6294be7af81aab3c": {
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "company": "Skydio",
+      "role": "Robotics / Drones / ML / Cloud / Web engineers",
+      "job_id": "0ed55301302025621f5fd86e",
+      "sources": [
+        "hn_whos_hiring"
+      ]
+    },
+    "fp:6499e32d53d29239": {
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "company": "notion",
+      "role": "Software Engineer, Early Career (AI)",
+      "job_id": "d866f2dde4de239f16b4b7ef",
+      "sources": [
+        "ashby"
+      ]
+    },
+    "fp:6655e7520c5dd2c9": {
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "company": "notion",
+      "role": "Software Engineer Intern (Winter 2027)",
+      "job_id": "50e8011ae0cbfd836e17bca8",
+      "sources": [
+        "ashby"
+      ]
+    },
+    "fp:688892c2c678b604": {
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "company": "cursor",
+      "role": "Software Engineer, Pretraining ",
+      "job_id": "e455abaccc19e9877ff30b87",
+      "sources": [
+        "ashby"
+      ]
+    },
+    "fp:69a6d6eaac1ab65c": {
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "company": "SourcingXPress",
+      "role": "Data Analyst",
+      "job_id": "454f64f944b826b054f333af",
+      "sources": [
+        "linkedin"
+      ]
+    },
+    "fp:6a155830e94bbef2": {
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "company": "Curai",
+      "role": "Remote (US)",
+      "job_id": "29baab85ad1902e8d79e97a5",
+      "sources": [
+        "hn_whos_hiring"
+      ]
+    },
+    "fp:6fdcdd64e4b04553": {
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "company": "matchgroup",
+      "role": "Software Engineer, iOS",
+      "job_id": "586b8b13cb63c0e337076b81",
+      "sources": [
+        "lever"
+      ]
+    },
+    "fp:7525777a43805526": {
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "company": "Transaction Network Services (TNS)",
+      "role": "Quality Assurance Engineer - Test Automation",
+      "job_id": "3c82e23bfbc77dbedbcfdee6",
+      "sources": [
+        "linkedin"
+      ]
+    },
+    "fp:76c2e0d9d73a428c": {
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "company": "Unknown",
+      "role": "Multiple Engineering + Product Roles",
+      "job_id": "42f5ed9461f1de11f0c0f8ba",
+      "sources": [
+        "hn_whos_hiring"
+      ]
+    },
+    "fp:77764c94fa4f7184": {
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "company": "scaleai",
+      "role": "Machine Learning Research Scientist, Post-Training",
+      "job_id": "cc4d22b4b3426d5e7109fe42",
+      "sources": [
+        "greenhouse"
+      ]
+    },
+    "fp:7a8a8f0b7798e1b1": {
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "company": "QUOBYTE",
+      "role": "Santa Clara, CA and Berlin, Germany",
+      "job_id": "f7b3e14d69f9e89dc272b9dd",
+      "sources": [
+        "hn_whos_hiring"
+      ]
+    },
+    "fp:7ae2a22631cc6c53": {
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "company": "scaleai",
+      "role": "Machine Learning Research Scientist, Evaluations",
+      "job_id": "bd4638f51b7f85989a66e614",
+      "sources": [
+        "greenhouse"
+      ]
+    },
+    "fp:7e9dbf11138e83de": {
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "company": "Buckman",
+      "role": "Digital Software Engineer- QA Automation",
+      "job_id": "d654178b607745b5b9c6bff7",
+      "sources": [
+        "linkedin"
+      ]
+    },
+    "fp:804911a50a136ad2": {
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "company": "scaleai",
+      "role": "Machine Learning Fellow - Human Frontier Collective (US)",
+      "job_id": "6ba80ac7a62171ee23027977",
+      "sources": [
+        "greenhouse"
+      ]
+    },
+    "fp:8584002995be8d15": {
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "company": "notion",
+      "role": "Software Engineer, Model Capabilities",
+      "job_id": "c1ce4fa6b6b8a6873863b062",
+      "sources": [
+        "ashby"
+      ]
+    },
+    "fp:861c42c7f0c1c6a3": {
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "company": "cursor",
+      "role": "Full Stack Engineer, ML Research Tools",
+      "job_id": "6159b01483aa3a54e8be259a",
+      "sources": [
+        "ashby"
+      ]
+    },
+    "fp:8cec44763c42315a": {
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "company": "notion",
+      "role": "Software Engineer Intern (Summer 2027)",
+      "job_id": "a0ac6f46d6e94f5d8bea9dcc",
+      "sources": [
+        "ashby"
+      ]
+    },
+    "fp:907583c64e3603ca": {
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "company": "Jitterbit",
+      "role": "SDET  - QA Automation(Remote)",
+      "job_id": "6a890751c515c6e4af27cc55",
+      "sources": [
+        "linkedin"
+      ]
+    },
+    "fp:9453fbd6e343fe70": {
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "company": "notion",
+      "role": "Data Scientist, Growth",
+      "job_id": "044e28fdd3b9d9ba6759c982",
+      "sources": [
+        "ashby"
+      ]
+    },
+    "fp:94a0c3f87e37e252": {
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "company": "Albs",
+      "role": "Freiburg, Germany",
+      "job_id": "40466755e79566a8234761f2",
+      "sources": [
+        "hn_whos_hiring"
+      ]
+    },
+    "fp:94aa98038cc7629c": {
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "company": "matchgroup",
+      "role": "Back-end Engineer, Trust & Safety (Go)",
+      "job_id": "cf6961e821acc2a384b705e2",
+      "sources": [
+        "lever"
+      ]
+    },
+    "fp:989d5af672943747": {
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "company": "cursor",
+      "role": "Software Engineer, Bugbot",
+      "job_id": "b089dba19fe33a98de804b56",
+      "sources": [
+        "ashby"
+      ]
+    },
+    "fp:999a5b85f8ef3109": {
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "company": "matchgroup",
+      "role": "Finance Business Intelligence Analyst",
+      "job_id": "8cb4fb1bcda82f38076fe8fc",
+      "sources": [
+        "lever"
+      ]
+    },
+    "fp:99f7aece8f5f615c": {
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "company": "cursor",
+      "role": "Software Engineer, Enterprise Platform",
+      "job_id": "e50824894fec26154c9358cd",
+      "sources": [
+        "ashby"
+      ]
+    },
+    "fp:9a461902c44c0d40": {
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "company": "scaleai",
+      "role": "GenAI Compliance Operations & Programs Associate ",
+      "job_id": "7526432fcf302ee701d79e47",
+      "sources": [
+        "greenhouse"
+      ]
+    },
+    "fp:9e94925b86bf4949": {
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "company": "applyapply",
+      "role": "REMOTE (US) or Austin, TX",
+      "job_id": "998fac1380bb50c263c0a15e",
+      "sources": [
+        "hn_whos_hiring"
+      ]
+    },
+    "fp:9f4a1914e178be18": {
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "company": "OMS Business Digitalisation Pvt Ltd",
+      "role": "QA Engineer \u2014 Automation Testing",
+      "job_id": "4d460360b5fdb61efdff53f7",
+      "sources": [
+        "linkedin"
+      ]
+    },
+    "fp:a0ace6329336acef": {
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "company": "Cognizant",
+      "role": "SDET - Test Engineer with Playwright, C#,",
+      "job_id": "03142fe3103fafe884e5ef45",
+      "sources": [
+        "linkedin"
+      ]
+    },
+    "fp:a10269f8c4feb631": {
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "company": "Skit.ai",
+      "role": "Data Analyst",
+      "job_id": "e6a10b9eaa9454979156c73e",
+      "sources": [
+        "linkedin"
+      ]
+    },
+    "fp:a1483d1756fb9aba": {
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "company": "Spade",
+      "role": "Multiple Engineering, AI/ML Data Science, Revenue, and Ops Roles",
+      "job_id": "833424f10a8348a73cdfb288",
+      "sources": [
+        "hn_whos_hiring"
+      ]
+    },
+    "fp:a361c5e9ab928fd2": {
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "company": "Jitterbit",
+      "role": "SDET  - QA Automation(Remote)",
+      "job_id": "aec09721b26e6fcd1d18b900",
+      "sources": [
+        "linkedin"
+      ]
+    },
+    "fp:a4b395ac55337cc9": {
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "company": "Shepherd",
+      "role": "Unknown role",
+      "job_id": "82cd0f9979cc0bdc8db233a0",
+      "sources": [
+        "hn_whos_hiring"
+      ]
+    },
+    "fp:a6bd446bba2d6382": {
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "company": "Ambito",
+      "role": "AI Engineer / Equity Partner",
+      "job_id": "73a92b946ee921d48bcb6476",
+      "sources": [
+        "hn_whos_hiring"
+      ]
+    },
+    "fp:a92de8b15e18e73a": {
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "company": "Kaavio",
+      "role": "REMOTE (US or Canada)",
+      "job_id": "ce8eca2320c76dfd28d1090a",
+      "sources": [
+        "hn_whos_hiring"
+      ]
+    },
+    "fp:a97e2dbc6400200e": {
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "company": "cursor",
+      "role": "Software Engineer, User Operations",
+      "job_id": "a66a4c5c44f53a4df1347078",
+      "sources": [
+        "ashby"
+      ]
+    },
+    "fp:afa285f2d120a96b": {
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "company": "Unknown",
+      "role": "Unknown role",
+      "job_id": "f6c028d1536577a3bad174a7",
+      "sources": [
+        "hn_whos_hiring"
+      ]
+    },
+    "fp:b54cb24910aa11e9": {
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "company": "perplexity",
+      "role": "Business Development Representative",
+      "job_id": "50d76c87bfdcbfc27eb16e37",
+      "sources": [
+        "ashby"
+      ]
+    },
+    "fp:b67486168522d2bf": {
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "company": "perplexity",
+      "role": "Internship - Search Machine Learning Engineer",
+      "job_id": "8a41dd2b0e772429787e33f0",
+      "sources": [
+        "ashby"
+      ]
+    },
+    "fp:b6d9d949fa70288d": {
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "company": "Stellar Science",
+      "role": "Hybrid (USA) Albuquerque NM, Washington DC (Tysons VA), Dayton OH",
+      "job_id": "a69acc39b1efca8ce3b860e4",
+      "sources": [
+        "hn_whos_hiring"
+      ]
+    },
+    "fp:bb8c21e84021de02": {
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "company": "ARTIFICIAL ANALYSIS",
+      "role": "MTS, Forward Deployed Engineer + more",
+      "job_id": "6f60b66004db22dd3faa25d3",
+      "sources": [
+        "hn_whos_hiring"
+      ]
+    },
+    "fp:bd7b3038eaae2cc1": {
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "company": "cursor",
+      "role": "Software Engineer, ML Platform",
+      "job_id": "fd7648730f4f6545e6064f56",
+      "sources": [
+        "ashby"
+      ]
+    },
+    "fp:bfb55a962ec3a0bf": {
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "company": "parallelwireless",
+      "role": "Junior Automation Engineer - North",
+      "job_id": "95184cfb6af5a529eea26bb2",
+      "sources": [
+        "lever"
+      ]
+    },
+    "fp:c863a9696d1e1871": {
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "company": "OpenSanctions",
+      "role": "Product Engineer",
+      "job_id": "5f9a7d5fa722c6d270c23eae",
+      "sources": [
+        "hn_whos_hiring"
+      ]
+    },
+    "fp:cb38a429993e67e1": {
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "company": "cursor",
+      "role": "Software Engineer, ML Infrastructure",
+      "job_id": "f639892236c5f5ea6a38e1d0",
+      "sources": [
+        "ashby"
+      ]
+    },
+    "fp:d29d2a0499c0d531": {
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "company": "matchgroup",
+      "role": "Analytics Engineer, Data Enabling",
+      "job_id": "479cd8147b96e938aa790b77",
+      "sources": [
+        "lever"
+      ]
+    },
+    "fp:d2a325b5cd35e395": {
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "company": "FactoFlare AI",
+      "role": "Machine Learning Engineer",
+      "job_id": "d34f53201f947a2615cabb8f",
+      "sources": [
+        "linkedin"
+      ]
+    },
+    "fp:d41aa6be0f3903a4": {
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "company": "Cardog",
+      "role": "Toronto, Ontario",
+      "job_id": "a930673fbdd57781a0884b95",
+      "sources": [
+        "hn_whos_hiring"
+      ]
+    },
+    "fp:d6a0d8d81dd0a757": {
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "company": "Baton",
+      "role": "San Francisco, CA (Hybrid)",
+      "job_id": "bfafb67b6351a05b7122e560",
+      "sources": [
+        "hn_whos_hiring"
+      ]
+    },
+    "fp:dbd9a182d10e6748": {
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "company": "scaleai",
+      "role": "Machine Learning Engineer, Public Sector",
+      "job_id": "2692808f629cb21c187986bb",
+      "sources": [
+        "greenhouse"
+      ]
+    },
+    "fp:dc6680b6338b903b": {
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "company": "SourcingXPress",
+      "role": "Data Analyst",
+      "job_id": "c215142a70a87584396ae890",
+      "sources": [
+        "linkedin"
+      ]
+    },
+    "fp:e58743ec6b374750": {
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "company": "cursor",
+      "role": "Research Scientist",
+      "job_id": "ae634d90ca29a6402f7136c8",
+      "sources": [
+        "ashby"
+      ]
+    },
+    "fp:f182e5282b925feb": {
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "company": "figma",
+      "role": "Software Engineer - Machine Learning (London, United Kingdom)",
+      "job_id": "7f0663c20c324843c079781f",
+      "sources": [
+        "greenhouse"
+      ]
+    },
+    "fp:f59d8c87adad99b4": {
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "company": "perplexity",
+      "role": "Internship - Search Machine Learning Engineer",
+      "job_id": "46bf7e63fd24333763d8e517",
+      "sources": [
+        "ashby"
+      ]
+    },
+    "fp:f5d92680dde427fc": {
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "company": "Delphie Consulting services",
+      "role": "Generative AI Engineer",
+      "job_id": "85c602221f099f3c170cb7e8",
+      "sources": [
+        "linkedin"
+      ]
+    },
+    "fp:f734395689840872": {
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "company": "notion",
+      "role": "Sales Recruiter",
+      "job_id": "a27b7d93803a59489c34a454",
+      "sources": [
+        "ashby"
+      ]
+    },
+    "fp:f7c67ef68835fc97": {
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "company": "matchgroup",
+      "role": "Data Analyst (Azar)",
+      "job_id": "3a5cb78025dd0b3f14253dd3",
+      "sources": [
+        "lever"
+      ]
+    },
+    "fp:fd4e52e967c36130": {
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "company": "matchgroup",
+      "role": "Machine Learning Engineer (Match Group AI)",
+      "job_id": "60ec78dc17eb982770b794ef",
+      "sources": [
+        "lever"
+      ]
+    }
+  }
 }
