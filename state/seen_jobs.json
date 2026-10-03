@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-10-02T03:32:08",
+  "updated": "2026-10-03T03:32:03",
   "entries": {
     "017c040d9761ad9d21081b1b": {},
     "03142fe3103fafe884e5ef45": {},
@@ -46,6 +46,16 @@
       "company": "Radar Labs",
       "role": "Software Engineers (SRE, ML, backend, full-stack, mobile, security, QA)",
       "job_id": "e6a6ba3e3450516f9891d84b",
+      "sources": [
+        "hn_whos_hiring"
+      ]
+    },
+    "fp:0335abfab377c263": {
+      "first_seen": "2026-10-03",
+      "last_seen": "2026-10-03",
+      "company": "Middesk",
+      "role": "Unknown role",
+      "job_id": "75a4361ee5b662ecc504856d",
       "sources": [
         "hn_whos_hiring"
       ]
@@ -100,6 +110,16 @@
         "linkedin"
       ]
     },
+    "fp:15b91a06ed9498f5": {
+      "first_seen": "2026-10-03",
+      "last_seen": "2026-10-03",
+      "company": "ind\u0113 wild",
+      "role": "Junior Data Analyst",
+      "job_id": "233062a0f1af65a28b9b4ee2",
+      "sources": [
+        "linkedin"
+      ]
+    },
     "fp:1c8175d628ed3f65": {
       "first_seen": "2026-10-02",
       "last_seen": "2026-10-02",
@@ -108,6 +128,16 @@
       "job_id": "6d3cf6db32008ef20f9856c4",
       "sources": [
         "hn_whos_hiring"
+      ]
+    },
+    "fp:1e53f7c022f8b46d": {
+      "first_seen": "2026-10-03",
+      "last_seen": "2026-10-03",
+      "company": "Searchability\u00ae",
+      "role": "Machine Learning Engineer",
+      "job_id": "2769edf361e47e16e86f0d16",
+      "sources": [
+        "linkedin"
       ]
     },
     "fp:20870df9b067c0bd": {
@@ -160,6 +190,16 @@
         "hn_whos_hiring"
       ]
     },
+    "fp:34aed708a96b3164": {
+      "first_seen": "2026-10-03",
+      "last_seen": "2026-10-03",
+      "company": "Prior Labs",
+      "role": "Berlin, Freiburg, NYC",
+      "job_id": "05a8610dec8afd3735de5511",
+      "sources": [
+        "hn_whos_hiring"
+      ]
+    },
     "fp:377f76ceb3d7fb79": {
       "first_seen": "2026-10-02",
       "last_seen": "2026-10-02",
@@ -168,6 +208,16 @@
       "job_id": "0e11598774b073f31e5b8602",
       "sources": [
         "ashby"
+      ]
+    },
+    "fp:3a08fc52830bd3c8": {
+      "first_seen": "2026-10-03",
+      "last_seen": "2026-10-03",
+      "company": "Workday",
+      "role": "AI Creative Technologist",
+      "job_id": "b3ef73f6c4f62d69c962b4ce",
+      "sources": [
+        "hn_whos_hiring"
       ]
     },
     "fp:3ce6a5a1a874fca5": {
@@ -198,6 +248,16 @@
       "job_id": "17c48f34e2458cd4e60dc5e3",
       "sources": [
         "ashby"
+      ]
+    },
+    "fp:49904dd15ba46fba": {
+      "first_seen": "2026-10-03",
+      "last_seen": "2026-10-03",
+      "company": "matchgroup",
+      "role": "Software Engineer, Android",
+      "job_id": "7f8035c669d2953a6834598b",
+      "sources": [
+        "lever"
       ]
     },
     "fp:4b416676d9dedf57": {
@@ -266,6 +326,16 @@
       "company": "PrairieLearn",
       "role": "Unknown role",
       "job_id": "01d17491c58c9f45cf1386dd",
+      "sources": [
+        "hn_whos_hiring"
+      ]
+    },
+    "fp:5fcf47338dcf04f0": {
+      "first_seen": "2026-10-03",
+      "last_seen": "2026-10-03",
+      "company": "AI x Healthcare Startup",
+      "role": "Unknown role",
+      "job_id": "4c3dea166ed41abe6fa97084",
       "sources": [
         "hn_whos_hiring"
       ]
@@ -400,6 +470,16 @@
         "greenhouse"
       ]
     },
+    "fp:7dc72605f318140a": {
+      "first_seen": "2026-10-03",
+      "last_seen": "2026-10-03",
+      "company": "NavaSys Technologies",
+      "role": "AI Engineer - GenAI, Agentic AI and MLOps",
+      "job_id": "938f5a09f78fe9cec6204f68",
+      "sources": [
+        "linkedin"
+      ]
+    },
     "fp:7e9dbf11138e83de": {
       "first_seen": "2026-10-02",
       "last_seen": "2026-10-02",
@@ -420,6 +500,16 @@
         "greenhouse"
       ]
     },
+    "fp:8460f2fd6ea13b82": {
+      "first_seen": "2026-10-03",
+      "last_seen": "2026-10-03",
+      "company": "Paradromics",
+      "role": "Embedded Software Engineer",
+      "job_id": "569daa2420baa442f503d456",
+      "sources": [
+        "hn_whos_hiring"
+      ]
+    },
     "fp:8584002995be8d15": {
       "first_seen": "2026-10-02",
       "last_seen": "2026-10-02",
@@ -428,6 +518,16 @@
       "job_id": "c1ce4fa6b6b8a6873863b062",
       "sources": [
         "ashby"
+      ]
+    },
+    "fp:85f08f68ed55de58": {
+      "first_seen": "2026-10-03",
+      "last_seen": "2026-10-03",
+      "company": "scaleai",
+      "role": "Machine Learning Fellow - Human Frontier Collective",
+      "job_id": "1d7a395d38030c5559ab84d1",
+      "sources": [
+        "greenhouse"
       ]
     },
     "fp:861c42c7f0c1c6a3": {
@@ -700,6 +800,26 @@
         "lever"
       ]
     },
+    "fp:c1b4cf935dc38fc7": {
+      "first_seen": "2026-10-03",
+      "last_seen": "2026-10-03",
+      "company": "Vola Dynamics",
+      "role": "Software Engineers (C++, Python)",
+      "job_id": "deb7328da9b396dbee1b1f0e",
+      "sources": [
+        "hn_whos_hiring"
+      ]
+    },
+    "fp:c33de9f07f25171d": {
+      "first_seen": "2026-10-03",
+      "last_seen": "2026-10-03",
+      "company": "Odoo",
+      "role": "Software Developer",
+      "job_id": "9c1d36432f579c9d07fd1fad",
+      "sources": [
+        "hn_whos_hiring"
+      ]
+    },
     "fp:c863a9696d1e1871": {
       "first_seen": "2026-10-02",
       "last_seen": "2026-10-02",
@@ -718,6 +838,16 @@
       "job_id": "f639892236c5f5ea6a38e1d0",
       "sources": [
         "ashby"
+      ]
+    },
+    "fp:cf7c28689e6ca8f2": {
+      "first_seen": "2026-10-03",
+      "last_seen": "2026-10-03",
+      "company": "At Tether",
+      "role": "Unknown role",
+      "job_id": "c5136a622f0833169e6773b2",
+      "sources": [
+        "hn_whos_hiring"
       ]
     },
     "fp:d29d2a0499c0d531": {
@@ -770,6 +900,16 @@
         "greenhouse"
       ]
     },
+    "fp:dc05b489f8e4b8b2": {
+      "first_seen": "2026-10-03",
+      "last_seen": "2026-10-03",
+      "company": "CodeClouds",
+      "role": "Machine Learning Engineer (Generative AI & ML Specialist)",
+      "job_id": "60987e047402902fa2a77e7d",
+      "sources": [
+        "linkedin"
+      ]
+    },
     "fp:dc6680b6338b903b": {
       "first_seen": "2026-10-02",
       "last_seen": "2026-10-02",
@@ -780,6 +920,16 @@
         "linkedin"
       ]
     },
+    "fp:dfee692944741f13": {
+      "first_seen": "2026-10-03",
+      "last_seen": "2026-10-03",
+      "company": "Rebar",
+      "role": "Software Engineers (Product, Applied AI, ML Infra, Data Platform)",
+      "job_id": "4fe6b356a919f95b3c67aa39",
+      "sources": [
+        "hn_whos_hiring"
+      ]
+    },
     "fp:e58743ec6b374750": {
       "first_seen": "2026-10-02",
       "last_seen": "2026-10-02",
@@ -788,6 +938,16 @@
       "job_id": "ae634d90ca29a6402f7136c8",
       "sources": [
         "ashby"
+      ]
+    },
+    "fp:f0dc8ae5e83ef063": {
+      "first_seen": "2026-10-03",
+      "last_seen": "2026-10-03",
+      "company": "Metcor",
+      "role": "AI Engineer",
+      "job_id": "cd92212fa40fdc9dce0bb9a3",
+      "sources": [
+        "hn_whos_hiring"
       ]
     },
     "fp:f182e5282b925feb": {
