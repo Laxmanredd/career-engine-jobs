@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-10-03T03:32:03",
+  "updated": "2026-10-04T03:31:59",
   "entries": {
     "017c040d9761ad9d21081b1b": {},
     "03142fe3103fafe884e5ef45": {},
@@ -290,6 +290,16 @@
         "ashby"
       ]
     },
+    "fp:51af7de96410d420": {
+      "first_seen": "2026-10-04",
+      "last_seen": "2026-10-04",
+      "company": "EXL",
+      "role": "Data Scientist-Data Science-Data Scientist",
+      "job_id": "c3e7b47214e7e048729718ab",
+      "sources": [
+        "linkedin"
+      ]
+    },
     "fp:528c1832ce1a79e8": {
       "first_seen": "2026-10-02",
       "last_seen": "2026-10-02",
@@ -556,6 +566,16 @@
       "company": "Jitterbit",
       "role": "SDET  - QA Automation(Remote)",
       "job_id": "6a890751c515c6e4af27cc55",
+      "sources": [
+        "linkedin"
+      ]
+    },
+    "fp:9121b62a368cf786": {
+      "first_seen": "2026-10-04",
+      "last_seen": "2026-10-04",
+      "company": "Wipro",
+      "role": "DATA ANALYST L3",
+      "job_id": "bff58396a38afab0f46648fc",
       "sources": [
         "linkedin"
       ]
