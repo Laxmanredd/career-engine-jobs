@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-10-05T03:32:00",
+  "updated": "2026-10-06T03:31:58",
   "entries": {
     "017c040d9761ad9d21081b1b": {},
     "03142fe3103fafe884e5ef45": {},
@@ -248,6 +248,16 @@
       "job_id": "17c48f34e2458cd4e60dc5e3",
       "sources": [
         "ashby"
+      ]
+    },
+    "fp:4352958dfa82b12f": {
+      "first_seen": "2026-10-06",
+      "last_seen": "2026-10-06",
+      "company": "Spillbox Innovation Private Ltd",
+      "role": "Data Analyst",
+      "job_id": "6b76df5af101403c8330001f",
+      "sources": [
+        "linkedin"
       ]
     },
     "fp:49904dd15ba46fba": {
@@ -910,6 +920,16 @@
         "hn_whos_hiring"
       ]
     },
+    "fp:d8fee4480f317a20": {
+      "first_seen": "2026-10-06",
+      "last_seen": "2026-10-06",
+      "company": "G-Research",
+      "role": "London, UK",
+      "job_id": "369eb5458f552a39b8a6d274",
+      "sources": [
+        "hn_whos_hiring"
+      ]
+    },
     "fp:dbd9a182d10e6748": {
       "first_seen": "2026-10-02",
       "last_seen": "2026-10-02",
@@ -938,6 +958,26 @@
       "job_id": "c215142a70a87584396ae890",
       "sources": [
         "linkedin"
+      ]
+    },
+    "fp:dcb0c62a0816addb": {
+      "first_seen": "2026-10-06",
+      "last_seen": "2026-10-06",
+      "company": "Early-stage Startup",
+      "role": "Software Engineer & Data Analyst",
+      "job_id": "675786493d9a19a145063f6c",
+      "sources": [
+        "hn_whos_hiring"
+      ]
+    },
+    "fp:dd389a4614aeb247": {
+      "first_seen": "2026-10-06",
+      "last_seen": "2026-10-06",
+      "company": "SingleStore",
+      "role": "Software Engineer, AI Platform",
+      "job_id": "82f3344a47f88cd73544bd9b",
+      "sources": [
+        "hn_whos_hiring"
       ]
     },
     "fp:dfee692944741f13": {
