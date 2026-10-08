@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-10-07T03:32:04",
+  "updated": "2026-10-08T03:32:06",
   "entries": {
     "017c040d9761ad9d21081b1b": {},
     "03142fe3103fafe884e5ef45": {},
@@ -188,6 +188,16 @@
       "job_id": "05f6f83c350279f1bea60737",
       "sources": [
         "greenhouse"
+      ]
+    },
+    "fp:3178b8154cd81fc6": {
+      "first_seen": "2026-10-08",
+      "last_seen": "2026-10-08",
+      "company": "Coast",
+      "role": "Unknown role",
+      "job_id": "2e19105e555261d9e113ceda",
+      "sources": [
+        "hn_whos_hiring"
       ]
     },
     "fp:320678eabb2b6774": {
@@ -570,6 +580,26 @@
         "ashby"
       ]
     },
+    "fp:88d2c8253e783944": {
+      "first_seen": "2026-10-08",
+      "last_seen": "2026-10-08",
+      "company": "famcare.co.in",
+      "role": "Data Analyst",
+      "job_id": "9d6448b00a6c8ea6d88b0ac7",
+      "sources": [
+        "linkedin"
+      ]
+    },
+    "fp:8c499c440807abf9": {
+      "first_seen": "2026-10-08",
+      "last_seen": "2026-10-08",
+      "company": "Mastra",
+      "role": "AI Engineer",
+      "job_id": "2eb20042d9954559aa57fcd3",
+      "sources": [
+        "hn_whos_hiring"
+      ]
+    },
     "fp:8cec44763c42315a": {
       "first_seen": "2026-10-02",
       "last_seen": "2026-10-02",
@@ -896,6 +926,16 @@
       "company": "At Tether",
       "role": "Unknown role",
       "job_id": "c5136a622f0833169e6773b2",
+      "sources": [
+        "hn_whos_hiring"
+      ]
+    },
+    "fp:d108e6b12bb0f42d": {
+      "first_seen": "2026-10-08",
+      "last_seen": "2026-10-08",
+      "company": "Cleverbase",
+      "role": "The Hague, Netherlands",
+      "job_id": "a3dd9606d46115aa58e39907",
       "sources": [
         "hn_whos_hiring"
       ]
