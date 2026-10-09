@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-10-08T03:32:06",
+  "updated": "2026-10-09T03:32:11",
   "entries": {
     "017c040d9761ad9d21081b1b": {},
     "03142fe3103fafe884e5ef45": {},
@@ -158,6 +158,26 @@
       "job_id": "dc96625f884acce3ee5a9acc",
       "sources": [
         "hn_whos_hiring"
+      ]
+    },
+    "fp:24a023652fbcb5bc": {
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-09",
+      "company": "Capco",
+      "role": "Data Analyst - GCP Big query",
+      "job_id": "50f1faa6b884a9a8fe35faa8",
+      "sources": [
+        "linkedin"
+      ]
+    },
+    "fp:2d021a214a8a00c6": {
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-09",
+      "company": "Neudesic Technologies Private Limited",
+      "role": "QA Automation Consultant",
+      "job_id": "e5115f99e82d251eb6e44a76",
+      "sources": [
+        "linkedin"
       ]
     },
     "fp:2d8103cd6696ab55": {
@@ -500,6 +520,16 @@
         "hn_whos_hiring"
       ]
     },
+    "fp:7acfb33023ef7347": {
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-09",
+      "company": "parallelwireless",
+      "role": "Junior Automation Engineer",
+      "job_id": "56631d5c13d7010475ee2a3a",
+      "sources": [
+        "lever"
+      ]
+    },
     "fp:7ae2a22631cc6c53": {
       "first_seen": "2026-10-02",
       "last_seen": "2026-10-02",
@@ -760,6 +790,16 @@
         "linkedin"
       ]
     },
+    "fp:a3f32886147efd65": {
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-09",
+      "company": "Capgemini Engineering",
+      "role": "QA Automation Engineer",
+      "job_id": "a21a812fa71468842d557777",
+      "sources": [
+        "linkedin"
+      ]
+    },
     "fp:a4b395ac55337cc9": {
       "first_seen": "2026-10-02",
       "last_seen": "2026-10-02",
@@ -808,6 +848,16 @@
       "job_id": "f6c028d1536577a3bad174a7",
       "sources": [
         "hn_whos_hiring"
+      ]
+    },
+    "fp:b2346e3f35d213de": {
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-09",
+      "company": "Evlo AI",
+      "role": "Business Data Analyst",
+      "job_id": "370b1dcd258604f034ae7038",
+      "sources": [
+        "linkedin"
       ]
     },
     "fp:b54cb24910aa11e9": {
