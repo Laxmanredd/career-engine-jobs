@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-10-09T03:32:11",
+  "updated": "2026-10-10T03:32:18",
   "entries": {
     "017c040d9761ad9d21081b1b": {},
     "03142fe3103fafe884e5ef45": {},
@@ -280,6 +280,16 @@
         "hn_whos_hiring"
       ]
     },
+    "fp:4066170b7fc9c28a": {
+      "first_seen": "2026-10-10",
+      "last_seen": "2026-10-10",
+      "company": "Valeo Health ME",
+      "role": "Data Analyst",
+      "job_id": "f7a8fb5d6ee4f8a6561adc50",
+      "sources": [
+        "linkedin"
+      ]
+    },
     "fp:408106901cfe4f10": {
       "first_seen": "2026-10-02",
       "last_seen": "2026-10-02",
@@ -318,6 +328,16 @@
       "job_id": "69457e20a0f5d90ac78b2c43",
       "sources": [
         "greenhouse"
+      ]
+    },
+    "fp:4d273d3ca5cf5149": {
+      "first_seen": "2026-10-10",
+      "last_seen": "2026-10-10",
+      "company": "cursor",
+      "role": "Software Engineer, Grok Connectors ",
+      "job_id": "893f7336ab4b85756d6f8417",
+      "sources": [
+        "ashby"
       ]
     },
     "fp:4eab2869bb49be3c": {
@@ -478,6 +498,16 @@
       "job_id": "586b8b13cb63c0e337076b81",
       "sources": [
         "lever"
+      ]
+    },
+    "fp:74b7997a85b2a172": {
+      "first_seen": "2026-10-10",
+      "last_seen": "2026-10-10",
+      "company": "Hr Actowiz Solutions",
+      "role": "LLM Engineer",
+      "job_id": "5e8ba86a3191519f2a559572",
+      "sources": [
+        "linkedin"
       ]
     },
     "fp:7525777a43805526": {
@@ -986,6 +1016,16 @@
       "company": "Cleverbase",
       "role": "The Hague, Netherlands",
       "job_id": "a3dd9606d46115aa58e39907",
+      "sources": [
+        "hn_whos_hiring"
+      ]
+    },
+    "fp:d10f30cc427bdb6f": {
+      "first_seen": "2026-10-10",
+      "last_seen": "2026-10-10",
+      "company": "experienceflyover.com",
+      "role": "Chicago, Las Vegas",
+      "job_id": "b46620e34dde87b50533ad3e",
       "sources": [
         "hn_whos_hiring"
       ]
