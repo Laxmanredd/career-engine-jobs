@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-10-11T03:32:00",
+  "updated": "2026-10-12T03:32:04",
   "entries": {
     "017c040d9761ad9d21081b1b": {},
     "03142fe3103fafe884e5ef45": {},
@@ -100,12 +100,32 @@
         "greenhouse"
       ]
     },
+    "fp:0b0702f562a1907c": {
+      "first_seen": "2026-10-12",
+      "last_seen": "2026-10-12",
+      "company": "Unknown",
+      "role": "Data Analyst",
+      "job_id": "a9ec36a18d6498f951da9e7f",
+      "sources": [
+        "linkedin"
+      ]
+    },
     "fp:0c08fbf8d98c1836": {
       "first_seen": "2026-10-02",
       "last_seen": "2026-10-02",
       "company": "Sidel",
       "role": "Advanced Data Analyst",
       "job_id": "4ba4dffdcaaa586c1d208398",
+      "sources": [
+        "linkedin"
+      ]
+    },
+    "fp:152b6c86fa9b69f8": {
+      "first_seen": "2026-10-12",
+      "last_seen": "2026-10-12",
+      "company": "ICE",
+      "role": "Data Analyst",
+      "job_id": "3c8ddd90ab91bc8d608e8c54",
       "sources": [
         "linkedin"
       ]
@@ -166,6 +186,16 @@
       "company": "Capco",
       "role": "Data Analyst - GCP Big query",
       "job_id": "50f1faa6b884a9a8fe35faa8",
+      "sources": [
+        "linkedin"
+      ]
+    },
+    "fp:24ee79794a49789c": {
+      "first_seen": "2026-10-12",
+      "last_seen": "2026-10-12",
+      "company": "Creuto",
+      "role": "Generative AI Engineer",
+      "job_id": "2af35a6995aa43fe3a32e1c1",
       "sources": [
         "linkedin"
       ]
@@ -260,6 +290,16 @@
         "hn_whos_hiring"
       ]
     },
+    "fp:3a21851df1f9874f": {
+      "first_seen": "2026-10-12",
+      "last_seen": "2026-10-12",
+      "company": "Creuto",
+      "role": "Data Analyst",
+      "job_id": "251aa64010387e8768ac6145",
+      "sources": [
+        "linkedin"
+      ]
+    },
     "fp:3ce6a5a1a874fca5": {
       "first_seen": "2026-10-02",
       "last_seen": "2026-10-02",
@@ -268,6 +308,16 @@
       "job_id": "d2fa955721d1ab3c55d9e237",
       "sources": [
         "lever"
+      ]
+    },
+    "fp:3e11761a109c6876": {
+      "first_seen": "2026-10-12",
+      "last_seen": "2026-10-12",
+      "company": "Wipro",
+      "role": "DATA ANALYST L4",
+      "job_id": "411f3eb3cba0c97b509b9f4d",
+      "sources": [
+        "linkedin"
       ]
     },
     "fp:3ebf767671e27f01": {
@@ -418,6 +468,16 @@
       "job_id": "4c3dea166ed41abe6fa97084",
       "sources": [
         "hn_whos_hiring"
+      ]
+    },
+    "fp:61ccb17ff1a1079b": {
+      "first_seen": "2026-10-12",
+      "last_seen": "2026-10-12",
+      "company": "Murphy AI",
+      "role": "Product Data Analyst",
+      "job_id": "e3a5342c3bfe3a8d0b9d5960",
+      "sources": [
+        "linkedin"
       ]
     },
     "fp:62751d99080ebea5": {
@@ -840,6 +900,16 @@
         "hn_whos_hiring"
       ]
     },
+    "fp:a564c8d93992546d": {
+      "first_seen": "2026-10-12",
+      "last_seen": "2026-10-12",
+      "company": "RapidClaims",
+      "role": "Machine Learning Engineer",
+      "job_id": "f777331ae784f94a5c0be1a8",
+      "sources": [
+        "linkedin"
+      ]
+    },
     "fp:a6bd446bba2d6382": {
       "first_seen": "2026-10-02",
       "last_seen": "2026-10-02",
@@ -1220,6 +1290,16 @@
         "lever"
       ]
     },
+    "fp:f911efc80e8c44f6": {
+      "first_seen": "2026-10-12",
+      "last_seen": "2026-10-12",
+      "company": "Cognizant",
+      "role": "SDET Automation | 5+ Years |PAN India",
+      "job_id": "868382008c6755aaf7afddf8",
+      "sources": [
+        "linkedin"
+      ]
+    },
     "fp:fd4e52e967c36130": {
       "first_seen": "2026-10-02",
       "last_seen": "2026-10-02",
@@ -1236,6 +1316,16 @@
       "company": "JPMorganChase",
       "role": "Software Engineer II - Agentic AI, Java , AWS , Springboot , Kafka",
       "job_id": "30476df908d6178ed0f474a1",
+      "sources": [
+        "linkedin"
+      ]
+    },
+    "fp:ff4b6c69b1e185fe": {
+      "first_seen": "2026-10-12",
+      "last_seen": "2026-10-12",
+      "company": "Daice Labs",
+      "role": "Data Analyst",
+      "job_id": "69173b03a36883ed2c9d72bf",
       "sources": [
         "linkedin"
       ]
