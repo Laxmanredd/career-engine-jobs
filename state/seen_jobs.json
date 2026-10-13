@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-10-12T03:32:04",
+  "updated": "2026-10-13T03:32:13",
   "entries": {
     "017c040d9761ad9d21081b1b": {},
     "03142fe3103fafe884e5ef45": {},
@@ -116,6 +116,16 @@
       "company": "Sidel",
       "role": "Advanced Data Analyst",
       "job_id": "4ba4dffdcaaa586c1d208398",
+      "sources": [
+        "linkedin"
+      ]
+    },
+    "fp:0c141d9e9371646f": {
+      "first_seen": "2026-10-13",
+      "last_seen": "2026-10-13",
+      "company": "videosdk.live",
+      "role": "Machine Learning Engineer",
+      "job_id": "ce65021f516d035cb8209cba",
       "sources": [
         "linkedin"
       ]
@@ -520,6 +530,16 @@
         "ashby"
       ]
     },
+    "fp:67f140bbfc26850e": {
+      "first_seen": "2026-10-13",
+      "last_seen": "2026-10-13",
+      "company": "Wynisco Inc.",
+      "role": "Data Analyst",
+      "job_id": "1fcc092cf7766992ff9c4605",
+      "sources": [
+        "linkedin"
+      ]
+    },
     "fp:688892c2c678b604": {
       "first_seen": "2026-10-02",
       "last_seen": "2026-10-02",
@@ -558,6 +578,16 @@
       "job_id": "586b8b13cb63c0e337076b81",
       "sources": [
         "lever"
+      ]
+    },
+    "fp:71040216bd21bd98": {
+      "first_seen": "2026-10-13",
+      "last_seen": "2026-10-13",
+      "company": "StartupHakk",
+      "role": "AI Engineer Apprentice",
+      "job_id": "0de902887127cbf3989f6917",
+      "sources": [
+        "hn_whos_hiring"
       ]
     },
     "fp:74b7997a85b2a172": {
@@ -1020,6 +1050,16 @@
         "ashby"
       ]
     },
+    "fp:bda5808c2c6e52fb": {
+      "first_seen": "2026-10-13",
+      "last_seen": "2026-10-13",
+      "company": "Typify.dev",
+      "role": "AI Application Engineer + Product Engineer",
+      "job_id": "2205629a6a0719017e1382f1",
+      "sources": [
+        "hn_whos_hiring"
+      ]
+    },
     "fp:bfb55a962ec3a0bf": {
       "first_seen": "2026-10-02",
       "last_seen": "2026-10-02",
@@ -1140,6 +1180,16 @@
         "hn_whos_hiring"
       ]
     },
+    "fp:d75c96caffe3a837": {
+      "first_seen": "2026-10-13",
+      "last_seen": "2026-10-13",
+      "company": "Evlo AI",
+      "role": "Data Analyst",
+      "job_id": "22f513c3053f65fb0ac38600",
+      "sources": [
+        "linkedin"
+      ]
+    },
     "fp:d8fee4480f317a20": {
       "first_seen": "2026-10-06",
       "last_seen": "2026-10-06",
@@ -1228,6 +1278,16 @@
       "job_id": "ae634d90ca29a6402f7136c8",
       "sources": [
         "ashby"
+      ]
+    },
+    "fp:eb51de5b530ed43e": {
+      "first_seen": "2026-10-13",
+      "last_seen": "2026-10-13",
+      "company": "LodgIQ",
+      "role": "Machine Learning Engineer",
+      "job_id": "f78e35218ae4c87d7b2633d5",
+      "sources": [
+        "linkedin"
       ]
     },
     "fp:f0dc8ae5e83ef063": {
