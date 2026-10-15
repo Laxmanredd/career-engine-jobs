@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-10-14T03:32:02",
+  "updated": "2026-10-15T03:31:59",
   "entries": {
     "017c040d9761ad9d21081b1b": {},
     "03142fe3103fafe884e5ef45": {},
@@ -738,6 +738,16 @@
       "job_id": "9d6448b00a6c8ea6d88b0ac7",
       "sources": [
         "linkedin"
+      ]
+    },
+    "fp:890c3c050cbb9dc1": {
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "company": "3Gimbals",
+      "role": "Unknown role",
+      "job_id": "6b2ee86867bb489284bcf2b6",
+      "sources": [
+        "hn_whos_hiring"
       ]
     },
     "fp:8c499c440807abf9": {
