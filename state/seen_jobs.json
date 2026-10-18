@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-10-17T03:32:01",
+  "updated": "2026-10-18T03:31:58",
   "entries": {
     "017c040d9761ad9d21081b1b": {},
     "03142fe3103fafe884e5ef45": {},
@@ -316,6 +316,16 @@
       "company": "Creuto",
       "role": "Data Analyst",
       "job_id": "251aa64010387e8768ac6145",
+      "sources": [
+        "linkedin"
+      ]
+    },
+    "fp:3bef21295c4e5281": {
+      "first_seen": "2026-10-18",
+      "last_seen": "2026-10-18",
+      "company": "STAN AI",
+      "role": "Data Analyst",
+      "job_id": "ff0b3f1b241344f5c33ab0ee",
       "sources": [
         "linkedin"
       ]
@@ -1026,6 +1036,26 @@
       "company": "Evlo AI",
       "role": "Business Data Analyst",
       "job_id": "370b1dcd258604f034ae7038",
+      "sources": [
+        "linkedin"
+      ]
+    },
+    "fp:b37b0538185cfe2b": {
+      "first_seen": "2026-10-18",
+      "last_seen": "2026-10-18",
+      "company": "Unknown",
+      "role": "Deep Learning Engineer \u2013 Healthcare AI (0\u20135 Years)",
+      "job_id": "7af7f7279d9f91074e0e0650",
+      "sources": [
+        "linkedin"
+      ]
+    },
+    "fp:b448ba31280c0c3a": {
+      "first_seen": "2026-10-18",
+      "last_seen": "2026-10-18",
+      "company": "Murphy AI",
+      "role": "Product Data Analyst",
+      "job_id": "edc68c6b45142c48e7095d4d",
       "sources": [
         "linkedin"
       ]
