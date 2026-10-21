@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-10-20T03:31:53",
+  "updated": "2026-10-21T03:31:51",
   "entries": {
     "017c040d9761ad9d21081b1b": {},
     "03142fe3103fafe884e5ef45": {},
@@ -310,6 +310,16 @@
         "ashby"
       ]
     },
+    "fp:3a049a8386a896b2": {
+      "first_seen": "2026-10-21",
+      "last_seen": "2026-10-21",
+      "company": "Cisco",
+      "role": "Software QA Engineer - AI Automation Testing (Robot/Playwright), 4-9 Yrs exp, Bangalore",
+      "job_id": "afc8d45f74d36da551ff6e15",
+      "sources": [
+        "linkedin"
+      ]
+    },
     "fp:3a08fc52830bd3c8": {
       "first_seen": "2026-10-03",
       "last_seen": "2026-10-03",
@@ -510,6 +520,16 @@
         "hn_whos_hiring"
       ]
     },
+    "fp:5618a0caeb0048df": {
+      "first_seen": "2026-10-21",
+      "last_seen": "2026-10-21",
+      "company": "Humyn Labs",
+      "role": "Data Analyst",
+      "job_id": "0b7086b582c10e79d5ddb8fd",
+      "sources": [
+        "linkedin"
+      ]
+    },
     "fp:5e3b4ec448bf6628": {
       "first_seen": "2026-10-02",
       "last_seen": "2026-10-02",
@@ -648,6 +668,16 @@
       "job_id": "5e8ba86a3191519f2a559572",
       "sources": [
         "linkedin"
+      ]
+    },
+    "fp:74bc44b3e9ec466d": {
+      "first_seen": "2026-10-21",
+      "last_seen": "2026-10-21",
+      "company": "parallelwireless",
+      "role": "PHY SW Engineer - 12 Month Internship (July 2027)",
+      "job_id": "ed0fedb66e6959a2d95108a2",
+      "sources": [
+        "lever"
       ]
     },
     "fp:7525777a43805526": {
