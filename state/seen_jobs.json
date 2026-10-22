@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-10-21T03:31:51",
+  "updated": "2026-10-22T03:32:03",
   "entries": {
     "017c040d9761ad9d21081b1b": {},
     "03142fe3103fafe884e5ef45": {},
@@ -708,6 +708,16 @@
       "job_id": "b5b51ba7a0e6ace6f059d8cf",
       "sources": [
         "greenhouse"
+      ]
+    },
+    "fp:7775340c4e51d5ad": {
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "company": "notion",
+      "role": "Ecosystem Growth Engineer",
+      "job_id": "68b14c60c79cc68a86e39b5d",
+      "sources": [
+        "ashby"
       ]
     },
     "fp:77764c94fa4f7184": {
