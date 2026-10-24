@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-10-23T03:32:09",
+  "updated": "2026-10-24T03:32:08",
   "entries": {
     "017c040d9761ad9d21081b1b": {},
     "03142fe3103fafe884e5ef45": {},
@@ -136,6 +136,16 @@
       "company": "videosdk.live",
       "role": "Machine Learning Engineer",
       "job_id": "ce65021f516d035cb8209cba",
+      "sources": [
+        "linkedin"
+      ]
+    },
+    "fp:0c43c857ee964755": {
+      "first_seen": "2026-10-24",
+      "last_seen": "2026-10-24",
+      "company": "Resollect",
+      "role": "Data Analyst",
+      "job_id": "557ce8303dc5383209a4c9c8",
       "sources": [
         "linkedin"
       ]
@@ -1518,6 +1528,16 @@
       "job_id": "868382008c6755aaf7afddf8",
       "sources": [
         "linkedin"
+      ]
+    },
+    "fp:f9576540e3f19303": {
+      "first_seen": "2026-10-24",
+      "last_seen": "2026-10-24",
+      "company": "Knowtex",
+      "role": "ML Engineer, LLM's",
+      "job_id": "a624de591d0fa7de8943ec74",
+      "sources": [
+        "yc"
       ]
     },
     "fp:fd4e52e967c36130": {
