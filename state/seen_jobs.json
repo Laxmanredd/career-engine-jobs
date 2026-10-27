@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-10-26T03:32:06",
+  "updated": "2026-10-27T03:32:01",
   "entries": {
     "017c040d9761ad9d21081b1b": {},
     "03142fe3103fafe884e5ef45": {},
@@ -68,6 +68,16 @@
       "job_id": "ca0a65a5f29429bf7496727c",
       "sources": [
         "hn_whos_hiring"
+      ]
+    },
+    "fp:0484e71665f64a58": {
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
+      "company": "Infosys",
+      "role": "Quality Assurance Automation Engineer (python+Selenium)",
+      "job_id": "35c6d3e5f77efcdf2dd7f8f4",
+      "sources": [
+        "linkedin"
       ]
     },
     "fp:06391fd40475390f": {
@@ -308,6 +318,16 @@
       "job_id": "05a8610dec8afd3735de5511",
       "sources": [
         "hn_whos_hiring"
+      ]
+    },
+    "fp:36899f9282149373": {
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
+      "company": "Evlo AI",
+      "role": "Business Data Analyst",
+      "job_id": "a8b1c5ac2a50ce37ad722398",
+      "sources": [
+        "linkedin"
       ]
     },
     "fp:377f76ceb3d7fb79": {
@@ -1480,6 +1500,16 @@
         "linkedin"
       ]
     },
+    "fp:ed228a02f450d7a6": {
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
+      "company": "Evlo AI",
+      "role": "Data Analyst",
+      "job_id": "b99f067bb6a766ad0bf85dcb",
+      "sources": [
+        "linkedin"
+      ]
+    },
     "fp:f0dc8ae5e83ef063": {
       "first_seen": "2026-10-03",
       "last_seen": "2026-10-03",
@@ -1498,6 +1528,16 @@
       "job_id": "7f0663c20c324843c079781f",
       "sources": [
         "greenhouse"
+      ]
+    },
+    "fp:f2e8c3ceda66f6c0": {
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
+      "company": "Gabeo.ai",
+      "role": "Machine Learning Engineer",
+      "job_id": "a0015db24735125630225dc7",
+      "sources": [
+        "linkedin"
       ]
     },
     "fp:f59d8c87adad99b4": {
