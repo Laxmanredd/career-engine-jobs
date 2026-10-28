@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-10-27T03:32:01",
+  "updated": "2026-10-28T03:32:02",
   "entries": {
     "017c040d9761ad9d21081b1b": {},
     "03142fe3103fafe884e5ef45": {},
@@ -790,6 +790,16 @@
         "greenhouse"
       ]
     },
+    "fp:7ceb199c04a3f584": {
+      "first_seen": "2026-10-28",
+      "last_seen": "2026-10-28",
+      "company": "matchgroup",
+      "role": "ML Ops Engineer, AI Platform",
+      "job_id": "47c4268ded7c2972e2219d03",
+      "sources": [
+        "lever"
+      ]
+    },
     "fp:7dc72605f318140a": {
       "first_seen": "2026-10-03",
       "last_seen": "2026-10-03",
@@ -878,6 +888,16 @@
       "job_id": "6b2ee86867bb489284bcf2b6",
       "sources": [
         "hn_whos_hiring"
+      ]
+    },
+    "fp:8a5da8020aeeba35": {
+      "first_seen": "2026-10-28",
+      "last_seen": "2026-10-28",
+      "company": "figma",
+      "role": "Software Engineer - Machine Learning",
+      "job_id": "2d13d02df8ae50c82dd2df65",
+      "sources": [
+        "greenhouse"
       ]
     },
     "fp:8c499c440807abf9": {
