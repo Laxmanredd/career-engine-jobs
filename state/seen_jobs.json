@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-10-28T03:32:02",
+  "updated": "2026-10-29T03:32:07",
   "entries": {
     "017c040d9761ad9d21081b1b": {},
     "03142fe3103fafe884e5ef45": {},
@@ -380,6 +380,16 @@
         "linkedin"
       ]
     },
+    "fp:3c7bc629ae5a7c84": {
+      "first_seen": "2026-10-29",
+      "last_seen": "2026-10-29",
+      "company": "notion",
+      "role": "Software Engineer, Growth (Early Career)",
+      "job_id": "96eb0e145631303f69a9e608",
+      "sources": [
+        "ashby"
+      ]
+    },
     "fp:3ce6a5a1a874fca5": {
       "first_seen": "2026-10-02",
       "last_seen": "2026-10-02",
@@ -436,6 +446,16 @@
       "company": "Spillbox Innovation Private Ltd",
       "role": "Data Analyst",
       "job_id": "6b76df5af101403c8330001f",
+      "sources": [
+        "linkedin"
+      ]
+    },
+    "fp:44136a8172fb3af6": {
+      "first_seen": "2026-10-29",
+      "last_seen": "2026-10-29",
+      "company": "Evlo AI",
+      "role": "Business Data Analyst",
+      "job_id": "49d5f14974cc6fce211ee20f",
       "sources": [
         "linkedin"
       ]
@@ -1118,6 +1138,16 @@
       "job_id": "73a92b946ee921d48bcb6476",
       "sources": [
         "hn_whos_hiring"
+      ]
+    },
+    "fp:a7a9316fe412a1b3": {
+      "first_seen": "2026-10-29",
+      "last_seen": "2026-10-29",
+      "company": "Stealth Startup",
+      "role": "Founding Machine Learning Engineer",
+      "job_id": "e5d63619be4f6e0c6c2a1f2d",
+      "sources": [
+        "linkedin"
       ]
     },
     "fp:a92de8b15e18e73a": {
