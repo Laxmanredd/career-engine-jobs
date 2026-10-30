@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-10-29T03:32:07",
+  "updated": "2026-10-30T03:31:57",
   "entries": {
     "017c040d9761ad9d21081b1b": {},
     "03142fe3103fafe884e5ef45": {},
@@ -920,6 +920,16 @@
         "greenhouse"
       ]
     },
+    "fp:8bb54eab54780267": {
+      "first_seen": "2026-10-30",
+      "last_seen": "2026-10-30",
+      "company": "Bridgestone Americas",
+      "role": "Data Analyst - NMFC",
+      "job_id": "17d2765a7ee1e97cb6e03059",
+      "sources": [
+        "linkedin"
+      ]
+    },
     "fp:8c499c440807abf9": {
       "first_seen": "2026-10-08",
       "last_seen": "2026-10-08",
@@ -1140,6 +1150,16 @@
         "hn_whos_hiring"
       ]
     },
+    "fp:a76fa6c8b5169c71": {
+      "first_seen": "2026-10-30",
+      "last_seen": "2026-10-30",
+      "company": "notion",
+      "role": "Business Systems Engineer",
+      "job_id": "67b93c05635ab94fcfef76d5",
+      "sources": [
+        "ashby"
+      ]
+    },
     "fp:a7a9316fe412a1b3": {
       "first_seen": "2026-10-29",
       "last_seen": "2026-10-29",
@@ -1318,6 +1338,16 @@
       "job_id": "9c1d36432f579c9d07fd1fad",
       "sources": [
         "hn_whos_hiring"
+      ]
+    },
+    "fp:c3fcdf9e6d93e9d8": {
+      "first_seen": "2026-10-30",
+      "last_seen": "2026-10-30",
+      "company": "TomTom",
+      "role": "Data Scientist - II ( 3- 5 Yrs, Databricks, Pyspark, Statistical Analysis, ML, DL)",
+      "job_id": "f24cd1c70bed69efc257c771",
+      "sources": [
+        "linkedin"
       ]
     },
     "fp:c863a9696d1e1871": {
@@ -1556,6 +1586,16 @@
       "company": "Evlo AI",
       "role": "Data Analyst",
       "job_id": "b99f067bb6a766ad0bf85dcb",
+      "sources": [
+        "linkedin"
+      ]
+    },
+    "fp:f016e651fbac0ce9": {
+      "first_seen": "2026-10-30",
+      "last_seen": "2026-10-30",
+      "company": "Global Payments Inc.",
+      "role": "Automation Test Engineer - Java, Selenium, BDD, Cucumber - 7-10 Years - Pune",
+      "job_id": "454feb5737a8b6b547a19a31",
       "sources": [
         "linkedin"
       ]
