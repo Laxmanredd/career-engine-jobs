@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-10-30T03:31:57",
+  "updated": "2026-10-31T03:31:51",
   "entries": {
     "017c040d9761ad9d21081b1b": {},
     "03142fe3103fafe884e5ef45": {},
@@ -1576,6 +1576,16 @@
       "company": "LodgIQ",
       "role": "Machine Learning Engineer",
       "job_id": "f78e35218ae4c87d7b2633d5",
+      "sources": [
+        "linkedin"
+      ]
+    },
+    "fp:eb6009a8897e4ad4": {
+      "first_seen": "2026-10-31",
+      "last_seen": "2026-10-31",
+      "company": "Heads Up For Tails",
+      "role": "Jr Data Analyst",
+      "job_id": "58db2f457c005bb446366c19",
       "sources": [
         "linkedin"
       ]
