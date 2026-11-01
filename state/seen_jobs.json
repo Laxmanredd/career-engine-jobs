@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-10-31T03:31:51",
+  "updated": "2026-11-01T03:31:48",
   "entries": {
     "017c040d9761ad9d21081b1b": {},
     "03142fe3103fafe884e5ef45": {},
@@ -1048,6 +1048,16 @@
       "job_id": "998fac1380bb50c263c0a15e",
       "sources": [
         "hn_whos_hiring"
+      ]
+    },
+    "fp:9e96eaf2f70422e4": {
+      "first_seen": "2026-11-01",
+      "last_seen": "2026-11-01",
+      "company": "Alex AI",
+      "role": "Data Analyst Junior",
+      "job_id": "e919d653f97998ffdb447376",
+      "sources": [
+        "linkedin"
       ]
     },
     "fp:9f4a1914e178be18": {
