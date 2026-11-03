@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-11-02T03:31:43",
+  "updated": "2026-11-03T03:31:56",
   "entries": {
     "017c040d9761ad9d21081b1b": {},
     "03142fe3103fafe884e5ef45": {},
@@ -38,16 +38,6 @@
       "job_id": "9f202b812e6c92b353ef4f37",
       "sources": [
         "greenhouse"
-      ]
-    },
-    "fp:0335abfab377c263": {
-      "first_seen": "2026-10-03",
-      "last_seen": "2026-10-03",
-      "company": "Middesk",
-      "role": "Unknown role",
-      "job_id": "75a4361ee5b662ecc504856d",
-      "sources": [
-        "hn_whos_hiring"
       ]
     },
     "fp:03b5041289bcc041": {
@@ -110,6 +100,16 @@
         "linkedin"
       ]
     },
+    "fp:0c08fbf8d98c1836": {
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03",
+      "company": "Sidel",
+      "role": "Advanced Data Analyst",
+      "job_id": "4ba4dffdcaaa586c1d208398",
+      "sources": [
+        "linkedin"
+      ]
+    },
     "fp:0c141d9e9371646f": {
       "first_seen": "2026-10-13",
       "last_seen": "2026-10-13",
@@ -130,6 +130,16 @@
         "linkedin"
       ]
     },
+    "fp:0c925b94b69c88fd": {
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03",
+      "company": "Middesk",
+      "role": "Unknown role",
+      "job_id": "9b9a63fcb274eddd9ad690ae",
+      "sources": [
+        "hn_whos_hiring"
+      ]
+    },
     "fp:152b6c86fa9b69f8": {
       "first_seen": "2026-10-12",
       "last_seen": "2026-10-12",
@@ -140,14 +150,24 @@
         "linkedin"
       ]
     },
-    "fp:15b91a06ed9498f5": {
-      "first_seen": "2026-10-03",
-      "last_seen": "2026-10-03",
-      "company": "ind\u0113 wild",
-      "role": "Junior Data Analyst",
-      "job_id": "233062a0f1af65a28b9b4ee2",
+    "fp:18ea245d63a533a5": {
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03",
+      "company": "Fusionality",
+      "role": "Multiple Positions (Controls, SciML, Data Engineering)",
+      "job_id": "7ac62720c53bd04670367a11",
       "sources": [
-        "linkedin"
+        "hn_whos_hiring"
+      ]
+    },
+    "fp:19616e2dc1506294": {
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03",
+      "company": "University of Cambridge, University of Manchester",
+      "role": "PhD in AI / Earth Observation / Environmental Science",
+      "job_id": "8d114048d1b7c9bdd50a50c2",
+      "sources": [
+        "hn_whos_hiring"
       ]
     },
     "fp:1afb08bf71ba4a72": {
@@ -160,14 +180,14 @@
         "hn_whos_hiring"
       ]
     },
-    "fp:1e53f7c022f8b46d": {
-      "first_seen": "2026-10-03",
-      "last_seen": "2026-10-03",
-      "company": "Searchability\u00ae",
-      "role": "Machine Learning Engineer",
-      "job_id": "2769edf361e47e16e86f0d16",
+    "fp:1c8175d628ed3f65": {
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03",
+      "company": "SerpApi",
+      "role": "Junior to Senior Fullstack Engineer multiple positions",
+      "job_id": "1c42fbc7665f5ca0f4b32b91",
       "sources": [
-        "linkedin"
+        "hn_whos_hiring"
       ]
     },
     "fp:20870df9b067c0bd": {
@@ -210,6 +230,16 @@
         "ashby"
       ]
     },
+    "fp:2835a04542dbb805": {
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03",
+      "company": "Vivral (Nair Engineering)",
+      "role": "ML, Systems (GPU), Hardware, and Embedded Engineers",
+      "job_id": "37cedfaebe742fd3c04d632a",
+      "sources": [
+        "hn_whos_hiring"
+      ]
+    },
     "fp:2d021a214a8a00c6": {
       "first_seen": "2026-10-09",
       "last_seen": "2026-10-09",
@@ -250,16 +280,6 @@
         "hn_whos_hiring"
       ]
     },
-    "fp:34aed708a96b3164": {
-      "first_seen": "2026-10-03",
-      "last_seen": "2026-10-03",
-      "company": "Prior Labs",
-      "role": "Berlin, Freiburg, NYC",
-      "job_id": "05a8610dec8afd3735de5511",
-      "sources": [
-        "hn_whos_hiring"
-      ]
-    },
     "fp:36899f9282149373": {
       "first_seen": "2026-10-27",
       "last_seen": "2026-10-27",
@@ -270,6 +290,16 @@
         "linkedin"
       ]
     },
+    "fp:387a18370179de2e": {
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03",
+      "company": "Fredrin",
+      "role": "GTM Engineer",
+      "job_id": "145ca15b083712ad9dddba51",
+      "sources": [
+        "hn_whos_hiring"
+      ]
+    },
     "fp:3a049a8386a896b2": {
       "first_seen": "2026-10-21",
       "last_seen": "2026-10-21",
@@ -278,16 +308,6 @@
       "job_id": "afc8d45f74d36da551ff6e15",
       "sources": [
         "linkedin"
-      ]
-    },
-    "fp:3a08fc52830bd3c8": {
-      "first_seen": "2026-10-03",
-      "last_seen": "2026-10-03",
-      "company": "Workday",
-      "role": "AI Creative Technologist",
-      "job_id": "b3ef73f6c4f62d69c962b4ce",
-      "sources": [
-        "hn_whos_hiring"
       ]
     },
     "fp:3a21851df1f9874f": {
@@ -360,6 +380,16 @@
         "linkedin"
       ]
     },
+    "fp:42f33a741594b624": {
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03",
+      "company": "SadServers",
+      "role": "Software Engineer",
+      "job_id": "cb12257add22822ac4eb1f6c",
+      "sources": [
+        "hn_whos_hiring"
+      ]
+    },
     "fp:4352958dfa82b12f": {
       "first_seen": "2026-10-06",
       "last_seen": "2026-10-06",
@@ -391,8 +421,8 @@
       ]
     },
     "fp:49904dd15ba46fba": {
-      "first_seen": "2026-10-03",
-      "last_seen": "2026-10-03",
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03",
       "company": "matchgroup",
       "role": "Software Engineer, Android",
       "job_id": "7f8035c669d2953a6834598b",
@@ -460,6 +490,16 @@
         "hn_whos_hiring"
       ]
     },
+    "fp:5419b594b5f19729": {
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03",
+      "company": "United Risk",
+      "role": "Early-Career AI Engineers \u2013 Full-Stack, Data Science, Infrastructure/DevOps (10 openings)",
+      "job_id": "c2e5dca932825834da393163",
+      "sources": [
+        "hn_whos_hiring"
+      ]
+    },
     "fp:5618a0caeb0048df": {
       "first_seen": "2026-10-21",
       "last_seen": "2026-10-21",
@@ -468,6 +508,36 @@
       "job_id": "0b7086b582c10e79d5ddb8fd",
       "sources": [
         "linkedin"
+      ]
+    },
+    "fp:5673c1100a2d0839": {
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03",
+      "company": "Spade",
+      "role": "Multiple Engineering, AI/ML Data Science, and Revenue roles",
+      "job_id": "8d5cb12bc652ebd3a6dac1bd",
+      "sources": [
+        "hn_whos_hiring"
+      ]
+    },
+    "fp:59b72d17771c679b": {
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03",
+      "company": "Unknown",
+      "role": "Mechatronics Engineer, AI Engineer",
+      "job_id": "ff8e6dd7c4ff7fd6941d04df",
+      "sources": [
+        "hn_whos_hiring"
+      ]
+    },
+    "fp:5c43ff8f1ff99bd1": {
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03",
+      "company": "Vohuman - Agentastic",
+      "role": "San Francisco, Onsite",
+      "job_id": "c83d877dd0a71fbaf7c04006",
+      "sources": [
+        "hn_whos_hiring"
       ]
     },
     "fp:5e3b4ec448bf6628": {
@@ -481,11 +551,11 @@
       ]
     },
     "fp:5fcf47338dcf04f0": {
-      "first_seen": "2026-10-03",
-      "last_seen": "2026-10-03",
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03",
       "company": "AI x Healthcare Startup",
       "role": "Unknown role",
-      "job_id": "4c3dea166ed41abe6fa97084",
+      "job_id": "4c939eb9656a71b0bbf5577a",
       "sources": [
         "hn_whos_hiring"
       ]
@@ -498,6 +568,16 @@
       "job_id": "e3a5342c3bfe3a8d0b9d5960",
       "sources": [
         "linkedin"
+      ]
+    },
+    "fp:6234763c532f9ae9": {
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03",
+      "company": "Lyra",
+      "role": "Unknown role",
+      "job_id": "7d36dead8db19e5706e3da99",
+      "sources": [
+        "hn_whos_hiring"
       ]
     },
     "fp:62751d99080ebea5": {
@@ -550,6 +630,16 @@
         "hn_whos_hiring"
       ]
     },
+    "fp:6cf79819245ab7a4": {
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03",
+      "company": "Credit Genie",
+      "role": "Philadelphia / NYC / Toronto",
+      "job_id": "48f4a5891276f12a0040a99a",
+      "sources": [
+        "hn_whos_hiring"
+      ]
+    },
     "fp:6fdcdd64e4b04553": {
       "first_seen": "2026-11-02",
       "last_seen": "2026-11-02",
@@ -588,6 +678,16 @@
       "job_id": "ed0fedb66e6959a2d95108a2",
       "sources": [
         "lever"
+      ]
+    },
+    "fp:7525777a43805526": {
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03",
+      "company": "Transaction Network Services (TNS)",
+      "role": "Quality Assurance Engineer - Test Automation",
+      "job_id": "3c82e23bfbc77dbedbcfdee6",
+      "sources": [
+        "linkedin"
       ]
     },
     "fp:76c2e0d9d73a428c": {
@@ -640,6 +740,16 @@
         "lever"
       ]
     },
+    "fp:7bcce9c5ff32689b": {
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03",
+      "company": "Evaboot",
+      "role": "Agentic Python Engineer",
+      "job_id": "dbc09dd4e16695173fa250f4",
+      "sources": [
+        "hn_whos_hiring"
+      ]
+    },
     "fp:7ceb199c04a3f584": {
       "first_seen": "2026-10-28",
       "last_seen": "2026-10-28",
@@ -650,34 +760,24 @@
         "lever"
       ]
     },
-    "fp:7dc72605f318140a": {
-      "first_seen": "2026-10-03",
-      "last_seen": "2026-10-03",
-      "company": "NavaSys Technologies",
-      "role": "AI Engineer - GenAI, Agentic AI and MLOps",
-      "job_id": "938f5a09f78fe9cec6204f68",
+    "fp:7e9dbf11138e83de": {
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03",
+      "company": "Buckman",
+      "role": "Digital Software Engineer- QA Automation",
+      "job_id": "d654178b607745b5b9c6bff7",
       "sources": [
         "linkedin"
       ]
     },
     "fp:8460f2fd6ea13b82": {
-      "first_seen": "2026-10-03",
-      "last_seen": "2026-10-03",
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03",
       "company": "Paradromics",
       "role": "Embedded Software Engineer",
-      "job_id": "569daa2420baa442f503d456",
+      "job_id": "eb3be3ab36f4e898ad8cb371",
       "sources": [
         "hn_whos_hiring"
-      ]
-    },
-    "fp:85f08f68ed55de58": {
-      "first_seen": "2026-10-03",
-      "last_seen": "2026-10-03",
-      "company": "scaleai",
-      "role": "Machine Learning Fellow - Human Frontier Collective",
-      "job_id": "1d7a395d38030c5559ab84d1",
-      "sources": [
-        "greenhouse"
       ]
     },
     "fp:88d2c8253e783944": {
@@ -780,6 +880,26 @@
         "lever"
       ]
     },
+    "fp:94e09038fd4b04f0": {
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03",
+      "company": "Equall",
+      "role": "Backend Engineer, Foundations",
+      "job_id": "4f78ba68a5d667447496672d",
+      "sources": [
+        "hn_whos_hiring"
+      ]
+    },
+    "fp:9517d9d23f7633c3": {
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03",
+      "company": "Simple Analytics",
+      "role": "DevOps Engineer",
+      "job_id": "938bc4f153fe77da868737a4",
+      "sources": [
+        "hn_whos_hiring"
+      ]
+    },
     "fp:989d5af672943747": {
       "first_seen": "2026-11-02",
       "last_seen": "2026-11-02",
@@ -840,12 +960,42 @@
         "linkedin"
       ]
     },
+    "fp:9f4a1914e178be18": {
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03",
+      "company": "OMS Business Digitalisation Pvt Ltd",
+      "role": "QA Engineer \u2014 Automation Testing",
+      "job_id": "4d460360b5fdb61efdff53f7",
+      "sources": [
+        "linkedin"
+      ]
+    },
+    "fp:9f990b2e709c97c5": {
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03",
+      "company": "Juro",
+      "role": "AI Engineer (Agentic team)",
+      "job_id": "643d3c28c00716545c469c0e",
+      "sources": [
+        "hn_whos_hiring"
+      ]
+    },
     "fp:a1483d1756fb9aba": {
       "first_seen": "2026-11-02",
       "last_seen": "2026-11-02",
       "company": "Spade",
       "role": "Multiple Engineering, AI/ML Data Science, Revenue, and Ops Roles",
       "job_id": "833424f10a8348a73cdfb288",
+      "sources": [
+        "hn_whos_hiring"
+      ]
+    },
+    "fp:a2854af52d972b17": {
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03",
+      "company": "Unknown",
+      "role": "Training & Consulting",
+      "job_id": "5fff77612f5477342057cacd",
       "sources": [
         "hn_whos_hiring"
       ]
@@ -940,6 +1090,16 @@
         "hn_whos_hiring"
       ]
     },
+    "fp:b005c8c3a5814602": {
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03",
+      "company": "Ledgebrook",
+      "role": "Engineering, Product & Data",
+      "job_id": "cb9dc5151c86f421396f09d1",
+      "sources": [
+        "hn_whos_hiring"
+      ]
+    },
     "fp:b01c022f5e8f7d24": {
       "first_seen": "2026-10-25",
       "last_seen": "2026-10-25",
@@ -958,6 +1118,16 @@
       "job_id": "370b1dcd258604f034ae7038",
       "sources": [
         "linkedin"
+      ]
+    },
+    "fp:b31c57e3e75b06e8": {
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03",
+      "company": "MixRank (YC S11)",
+      "role": "Software Engineers",
+      "job_id": "b76080eb51274c839a12c265",
+      "sources": [
+        "hn_whos_hiring"
       ]
     },
     "fp:b37b0538185cfe2b": {
@@ -1040,22 +1210,22 @@
         "hn_whos_hiring"
       ]
     },
-    "fp:c1b4cf935dc38fc7": {
-      "first_seen": "2026-10-03",
-      "last_seen": "2026-10-03",
-      "company": "Vola Dynamics",
-      "role": "Software Engineers (C++, Python)",
-      "job_id": "deb7328da9b396dbee1b1f0e",
+    "fp:be00f8c998119b7c": {
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03",
+      "company": "Helmsted",
+      "role": "Founding AI Engineer",
+      "job_id": "2fb9d46e7bd876b595f64287",
       "sources": [
         "hn_whos_hiring"
       ]
     },
-    "fp:c33de9f07f25171d": {
-      "first_seen": "2026-10-03",
-      "last_seen": "2026-10-03",
-      "company": "Odoo",
-      "role": "Software Developer",
-      "job_id": "9c1d36432f579c9d07fd1fad",
+    "fp:c0a3a42dccd7d5c3": {
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03",
+      "company": "Distru",
+      "role": "AI Product Engineer",
+      "job_id": "3039725730f2041c71f23bae",
       "sources": [
         "hn_whos_hiring"
       ]
@@ -1088,16 +1258,6 @@
       "job_id": "978564d1e9c321160053b654",
       "sources": [
         "ashby"
-      ]
-    },
-    "fp:cf7c28689e6ca8f2": {
-      "first_seen": "2026-10-03",
-      "last_seen": "2026-10-03",
-      "company": "At Tether",
-      "role": "Unknown role",
-      "job_id": "c5136a622f0833169e6773b2",
-      "sources": [
-        "hn_whos_hiring"
       ]
     },
     "fp:d108e6b12bb0f42d": {
@@ -1180,16 +1340,6 @@
         "ashby"
       ]
     },
-    "fp:dc05b489f8e4b8b2": {
-      "first_seen": "2026-10-03",
-      "last_seen": "2026-10-03",
-      "company": "CodeClouds",
-      "role": "Machine Learning Engineer (Generative AI & ML Specialist)",
-      "job_id": "60987e047402902fa2a77e7d",
-      "sources": [
-        "linkedin"
-      ]
-    },
     "fp:dcb0c62a0816addb": {
       "first_seen": "2026-10-06",
       "last_seen": "2026-10-06",
@@ -1206,16 +1356,6 @@
       "company": "SingleStore",
       "role": "Software Engineer, AI Platform",
       "job_id": "82f3344a47f88cd73544bd9b",
-      "sources": [
-        "hn_whos_hiring"
-      ]
-    },
-    "fp:dfee692944741f13": {
-      "first_seen": "2026-10-03",
-      "last_seen": "2026-10-03",
-      "company": "Rebar",
-      "role": "Software Engineers (Product, Applied AI, ML Infra, Data Platform)",
-      "job_id": "4fe6b356a919f95b3c67aa39",
       "sources": [
         "hn_whos_hiring"
       ]
@@ -1280,16 +1420,6 @@
         "linkedin"
       ]
     },
-    "fp:f0dc8ae5e83ef063": {
-      "first_seen": "2026-10-03",
-      "last_seen": "2026-10-03",
-      "company": "Metcor",
-      "role": "AI Engineer",
-      "job_id": "cd92212fa40fdc9dce0bb9a3",
-      "sources": [
-        "hn_whos_hiring"
-      ]
-    },
     "fp:f2e8c3ceda66f6c0": {
       "first_seen": "2026-10-27",
       "last_seen": "2026-10-27",
@@ -1318,6 +1448,16 @@
       "job_id": "1caa36d8eddfad082f823447",
       "sources": [
         "linkedin"
+      ]
+    },
+    "fp:f6a26ab52a9c287a": {
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03",
+      "company": "Odoo",
+      "role": "Software Developer (Python / JavaScript)",
+      "job_id": "071a8d35963027eb8d51a8c6",
+      "sources": [
+        "hn_whos_hiring"
       ]
     },
     "fp:f734395689840872": {
@@ -1358,6 +1498,16 @@
       "job_id": "60ec78dc17eb982770b794ef",
       "sources": [
         "lever"
+      ]
+    },
+    "fp:feb58330e4843a95": {
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03",
+      "company": "CNH",
+      "role": "AI Engineer Intern",
+      "job_id": "5afff3efdbea585484a93cd6",
+      "sources": [
+        "hn_whos_hiring"
       ]
     },
     "fp:ff2d8dfb42c45b06": {
