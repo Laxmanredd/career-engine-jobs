@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-11-03T03:31:56",
+  "updated": "2026-11-04T03:32:17",
   "entries": {
     "017c040d9761ad9d21081b1b": {},
     "03142fe3103fafe884e5ef45": {},
@@ -38,6 +38,26 @@
       "job_id": "9f202b812e6c92b353ef4f37",
       "sources": [
         "greenhouse"
+      ]
+    },
+    "fp:013b3e560080383f": {
+      "first_seen": "2026-11-04",
+      "last_seen": "2026-11-04",
+      "company": "ThreatMark",
+      "role": "Security, Machine Learning",
+      "job_id": "e169f43d676970c3517aae6c",
+      "sources": [
+        "hn_whos_hiring"
+      ]
+    },
+    "fp:032e98a7e2f53877": {
+      "first_seen": "2026-11-04",
+      "last_seen": "2026-11-04",
+      "company": "Radar Labs",
+      "role": "Software Engineers (SRE, ML, backend, full-stack, mobile, security, QA)",
+      "job_id": "f23eba9f732e63555d92eb85",
+      "sources": [
+        "hn_whos_hiring"
       ]
     },
     "fp:03b5041289bcc041": {
@@ -150,6 +170,16 @@
         "linkedin"
       ]
     },
+    "fp:16f6afa85316f30c": {
+      "first_seen": "2026-11-04",
+      "last_seen": "2026-11-04",
+      "company": "Antithesis",
+      "role": "Washington, DC, London",
+      "job_id": "2cc25bdbced4809b7d17892f",
+      "sources": [
+        "hn_whos_hiring"
+      ]
+    },
     "fp:18ea245d63a533a5": {
       "first_seen": "2026-11-03",
       "last_seen": "2026-11-03",
@@ -240,6 +270,16 @@
         "hn_whos_hiring"
       ]
     },
+    "fp:2bc928f34d3d7da4": {
+      "first_seen": "2026-11-04",
+      "last_seen": "2026-11-04",
+      "company": "Baton",
+      "role": "San Francisco, CA (Hybrid)",
+      "job_id": "efc67826d7dbc82d660a081c",
+      "sources": [
+        "hn_whos_hiring"
+      ]
+    },
     "fp:2d021a214a8a00c6": {
       "first_seen": "2026-10-09",
       "last_seen": "2026-10-09",
@@ -258,6 +298,16 @@
       "job_id": "2740689f03de67b8621e927b",
       "sources": [
         "hn_whos_hiring"
+      ]
+    },
+    "fp:2e0dd618daa81025": {
+      "first_seen": "2026-11-04",
+      "last_seen": "2026-11-04",
+      "company": "AI CERTs\u00ae - India",
+      "role": "Data Analyst &#8211; Startups",
+      "job_id": "fdef820c3337c95a416bb560",
+      "sources": [
+        "linkedin"
       ]
     },
     "fp:3118ac7504c91a79": {
@@ -430,6 +480,16 @@
         "lever"
       ]
     },
+    "fp:4b416676d9dedf57": {
+      "first_seen": "2026-11-04",
+      "last_seen": "2026-11-04",
+      "company": "scaleai",
+      "role": "Infrastructure Software Engineer, Enterprise GenAI",
+      "job_id": "69457e20a0f5d90ac78b2c43",
+      "sources": [
+        "greenhouse"
+      ]
+    },
     "fp:4d273d3ca5cf5149": {
       "first_seen": "2026-10-10",
       "last_seen": "2026-10-10",
@@ -470,22 +530,22 @@
         "hn_whos_hiring"
       ]
     },
-    "fp:51af7de96410d420": {
-      "first_seen": "2026-10-04",
-      "last_seen": "2026-10-04",
-      "company": "EXL",
-      "role": "Data Scientist-Data Science-Data Scientist",
-      "job_id": "c3e7b47214e7e048729718ab",
-      "sources": [
-        "linkedin"
-      ]
-    },
     "fp:5342051a9c8c2766": {
       "first_seen": "2026-11-02",
       "last_seen": "2026-11-02",
       "company": "Sheer Health",
       "role": "New York, NY",
       "job_id": "90758dc3294fe3cdf01c36cf",
+      "sources": [
+        "hn_whos_hiring"
+      ]
+    },
+    "fp:539037297fa3989d": {
+      "first_seen": "2026-11-04",
+      "last_seen": "2026-11-04",
+      "company": "Opsfleet",
+      "role": "AI Engineer (Agentic / GenAI)",
+      "job_id": "b30802f0e6b4a22d1f0aff45",
       "sources": [
         "hn_whos_hiring"
       ]
@@ -840,12 +900,22 @@
         "ashby"
       ]
     },
+    "fp:8e112e11cb3edc24": {
+      "first_seen": "2026-11-04",
+      "last_seen": "2026-11-04",
+      "company": "Scento",
+      "role": "Paris, Berlin",
+      "job_id": "6ef56f52a77e25d5908a5b1d",
+      "sources": [
+        "hn_whos_hiring"
+      ]
+    },
     "fp:9121b62a368cf786": {
-      "first_seen": "2026-10-04",
-      "last_seen": "2026-10-04",
+      "first_seen": "2026-11-04",
+      "last_seen": "2026-11-04",
       "company": "Wipro",
       "role": "DATA ANALYST L3",
-      "job_id": "bff58396a38afab0f46648fc",
+      "job_id": "3b523b279ecbec9c879ca100",
       "sources": [
         "linkedin"
       ]
@@ -1120,6 +1190,16 @@
         "linkedin"
       ]
     },
+    "fp:b2895bfa2a7f0333": {
+      "first_seen": "2026-11-04",
+      "last_seen": "2026-11-04",
+      "company": "Coder",
+      "role": "Unknown role",
+      "job_id": "586542ab75cc89aa3409c7f8",
+      "sources": [
+        "hn_whos_hiring"
+      ]
+    },
     "fp:b31c57e3e75b06e8": {
       "first_seen": "2026-11-03",
       "last_seen": "2026-11-03",
@@ -1226,6 +1306,16 @@
       "company": "Distru",
       "role": "AI Product Engineer",
       "job_id": "3039725730f2041c71f23bae",
+      "sources": [
+        "hn_whos_hiring"
+      ]
+    },
+    "fp:c33de9f07f25171d": {
+      "first_seen": "2026-11-04",
+      "last_seen": "2026-11-04",
+      "company": "Odoo",
+      "role": "Software Developer",
+      "job_id": "105d7a74ef3ecb2c44c986cc",
       "sources": [
         "hn_whos_hiring"
       ]
