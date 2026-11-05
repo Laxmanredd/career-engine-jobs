@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-11-04T03:32:17",
+  "updated": "2026-11-05T03:32:02",
   "entries": {
     "017c040d9761ad9d21081b1b": {},
     "03142fe3103fafe884e5ef45": {},
@@ -328,6 +328,16 @@
       "job_id": "2e19105e555261d9e113ceda",
       "sources": [
         "hn_whos_hiring"
+      ]
+    },
+    "fp:34ffe54db045fad3": {
+      "first_seen": "2026-11-05",
+      "last_seen": "2026-11-05",
+      "company": "cursor",
+      "role": "Research Scientist",
+      "job_id": "ae634d90ca29a6402f7136c8",
+      "sources": [
+        "ashby"
       ]
     },
     "fp:36899f9282149373": {
@@ -1310,6 +1320,26 @@
         "hn_whos_hiring"
       ]
     },
+    "fp:c1a7801a7684a4c5": {
+      "first_seen": "2026-11-05",
+      "last_seen": "2026-11-05",
+      "company": "cursor",
+      "role": "Software Engineer, Bugbot",
+      "job_id": "b089dba19fe33a98de804b56",
+      "sources": [
+        "ashby"
+      ]
+    },
+    "fp:c2db0b44d85b06e5": {
+      "first_seen": "2026-11-05",
+      "last_seen": "2026-11-05",
+      "company": "cursor",
+      "role": "Software Engineer, Enterprise Platform",
+      "job_id": "e50824894fec26154c9358cd",
+      "sources": [
+        "ashby"
+      ]
+    },
     "fp:c33de9f07f25171d": {
       "first_seen": "2026-11-04",
       "last_seen": "2026-11-04",
@@ -1526,6 +1556,16 @@
       "company": "perplexity",
       "role": "Internship - Search Machine Learning Engineer",
       "job_id": "46bf7e63fd24333763d8e517",
+      "sources": [
+        "ashby"
+      ]
+    },
+    "fp:f6532b4bbd2d6980": {
+      "first_seen": "2026-11-05",
+      "last_seen": "2026-11-05",
+      "company": "cursor",
+      "role": "GTM Applications Engineer",
+      "job_id": "e3c0fcbbb50902bc85dd099d",
       "sources": [
         "ashby"
       ]
