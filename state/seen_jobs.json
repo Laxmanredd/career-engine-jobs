@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-11-05T03:32:02",
+  "updated": "2026-11-06T03:31:51",
   "entries": {
     "017c040d9761ad9d21081b1b": {},
     "03142fe3103fafe884e5ef45": {},
@@ -210,6 +210,16 @@
         "hn_whos_hiring"
       ]
     },
+    "fp:1c4af99cac913855": {
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06",
+      "company": "I'm Rajneesh Verma",
+      "role": "AI Engineer currently working with a YC-backed startup",
+      "job_id": "aad1a7313de6003569256a42",
+      "sources": [
+        "hn_whos_hiring"
+      ]
+    },
     "fp:1c8175d628ed3f65": {
       "first_seen": "2026-11-03",
       "last_seen": "2026-11-03",
@@ -350,6 +360,16 @@
         "linkedin"
       ]
     },
+    "fp:36f977fcb25c44e5": {
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06",
+      "company": "Sortrace",
+      "role": "Computer Vision Engineer, Junior Frontend Engineer",
+      "job_id": "04f934c86b56700568847222",
+      "sources": [
+        "hn_whos_hiring"
+      ]
+    },
     "fp:387a18370179de2e": {
       "first_seen": "2026-11-03",
       "last_seen": "2026-11-03",
@@ -448,16 +468,6 @@
       "job_id": "cb12257add22822ac4eb1f6c",
       "sources": [
         "hn_whos_hiring"
-      ]
-    },
-    "fp:4352958dfa82b12f": {
-      "first_seen": "2026-10-06",
-      "last_seen": "2026-10-06",
-      "company": "Spillbox Innovation Private Ltd",
-      "role": "Data Analyst",
-      "job_id": "6b76df5af101403c8330001f",
-      "sources": [
-        "linkedin"
       ]
     },
     "fp:44136a8172fb3af6": {
@@ -790,6 +800,16 @@
         "ashby"
       ]
     },
+    "fp:77764c94fa4f7184": {
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06",
+      "company": "scaleai",
+      "role": "Machine Learning Research Scientist, Post-Training",
+      "job_id": "cc4d22b4b3426d5e7109fe42",
+      "sources": [
+        "greenhouse"
+      ]
+    },
     "fp:7a8a8f0b7798e1b1": {
       "first_seen": "2026-11-02",
       "last_seen": "2026-11-02",
@@ -808,6 +828,16 @@
       "job_id": "56631d5c13d7010475ee2a3a",
       "sources": [
         "lever"
+      ]
+    },
+    "fp:7ae2a22631cc6c53": {
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06",
+      "company": "scaleai",
+      "role": "Machine Learning Research Scientist, Evaluations",
+      "job_id": "bd4638f51b7f85989a66e614",
+      "sources": [
+        "greenhouse"
       ]
     },
     "fp:7bcce9c5ff32689b": {
@@ -848,6 +878,16 @@
       "job_id": "eb3be3ab36f4e898ad8cb371",
       "sources": [
         "hn_whos_hiring"
+      ]
+    },
+    "fp:85f08f68ed55de58": {
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06",
+      "company": "scaleai",
+      "role": "Machine Learning Fellow - Human Frontier Collective",
+      "job_id": "1d7a395d38030c5559ab84d1",
+      "sources": [
+        "greenhouse"
       ]
     },
     "fp:88d2c8253e783944": {
@@ -1078,6 +1118,16 @@
       "job_id": "5fff77612f5477342057cacd",
       "sources": [
         "hn_whos_hiring"
+      ]
+    },
+    "fp:a3bddf4fbea40ab8": {
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06",
+      "company": "The Sleep Company",
+      "role": "Data Analyst",
+      "job_id": "37c2d7cd216e14347b58b4eb",
+      "sources": [
+        "linkedin"
       ]
     },
     "fp:a3f32886147efd65": {
@@ -1440,16 +1490,6 @@
         "linkedin"
       ]
     },
-    "fp:d8fee4480f317a20": {
-      "first_seen": "2026-10-06",
-      "last_seen": "2026-10-06",
-      "company": "G-Research",
-      "role": "London, UK",
-      "job_id": "369eb5458f552a39b8a6d274",
-      "sources": [
-        "hn_whos_hiring"
-      ]
-    },
     "fp:dbbf3e244735b5a1": {
       "first_seen": "2026-10-20",
       "last_seen": "2026-10-20",
@@ -1460,24 +1500,14 @@
         "ashby"
       ]
     },
-    "fp:dcb0c62a0816addb": {
-      "first_seen": "2026-10-06",
-      "last_seen": "2026-10-06",
-      "company": "Early-stage Startup",
-      "role": "Software Engineer & Data Analyst",
-      "job_id": "675786493d9a19a145063f6c",
+    "fp:dbd9a182d10e6748": {
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06",
+      "company": "scaleai",
+      "role": "Machine Learning Engineer, Public Sector",
+      "job_id": "2692808f629cb21c187986bb",
       "sources": [
-        "hn_whos_hiring"
-      ]
-    },
-    "fp:dd389a4614aeb247": {
-      "first_seen": "2026-10-06",
-      "last_seen": "2026-10-06",
-      "company": "SingleStore",
-      "role": "Software Engineer, AI Platform",
-      "job_id": "82f3344a47f88cd73544bd9b",
-      "sources": [
-        "hn_whos_hiring"
+        "greenhouse"
       ]
     },
     "fp:e217453cc0803da7": {
