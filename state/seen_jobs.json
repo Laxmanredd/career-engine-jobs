@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-11-06T03:31:51",
+  "updated": "2026-11-07T03:31:48",
   "entries": {
     "017c040d9761ad9d21081b1b": {},
     "03142fe3103fafe884e5ef45": {},
@@ -78,6 +78,16 @@
       "job_id": "35c6d3e5f77efcdf2dd7f8f4",
       "sources": [
         "linkedin"
+      ]
+    },
+    "fp:0613abd3f72c6c07": {
+      "first_seen": "2026-11-07",
+      "last_seen": "2026-11-07",
+      "company": "notion",
+      "role": "Software Engineering Intern, Frontend (Summer 2027)",
+      "job_id": "0d6e6bf5ecf577d849de88d6",
+      "sources": [
+        "ashby"
       ]
     },
     "fp:06391fd40475390f": {
@@ -196,16 +206,6 @@
       "company": "University of Cambridge, University of Manchester",
       "role": "PhD in AI / Earth Observation / Environmental Science",
       "job_id": "8d114048d1b7c9bdd50a50c2",
-      "sources": [
-        "hn_whos_hiring"
-      ]
-    },
-    "fp:1afb08bf71ba4a72": {
-      "first_seen": "2026-10-07",
-      "last_seen": "2026-10-07",
-      "company": "RealResponse",
-      "role": "Product Engineer",
-      "job_id": "69c7d1a8b41b0a0fb0f8fb98",
       "sources": [
         "hn_whos_hiring"
       ]
@@ -336,6 +336,16 @@
       "company": "Coast",
       "role": "Unknown role",
       "job_id": "2e19105e555261d9e113ceda",
+      "sources": [
+        "hn_whos_hiring"
+      ]
+    },
+    "fp:34aed708a96b3164": {
+      "first_seen": "2026-11-07",
+      "last_seen": "2026-11-07",
+      "company": "Prior Labs",
+      "role": "Berlin, Freiburg, NYC",
+      "job_id": "d2854ff4c46ee194af89169b",
       "sources": [
         "hn_whos_hiring"
       ]
@@ -810,6 +820,16 @@
         "greenhouse"
       ]
     },
+    "fp:7a82f2fda4e87ead": {
+      "first_seen": "2026-11-07",
+      "last_seen": "2026-11-07",
+      "company": "matchgroup",
+      "role": "Machine Learning Engineer Intern",
+      "job_id": "1703e8e158a010822ba62097",
+      "sources": [
+        "lever"
+      ]
+    },
     "fp:7a8a8f0b7798e1b1": {
       "first_seen": "2026-11-02",
       "last_seen": "2026-11-02",
@@ -960,6 +980,16 @@
         "hn_whos_hiring"
       ]
     },
+    "fp:8e796e6fa95fddfe": {
+      "first_seen": "2026-11-07",
+      "last_seen": "2026-11-07",
+      "company": "matchgroup",
+      "role": "Data Scientist Intern",
+      "job_id": "962b742817a390f4ccb15864",
+      "sources": [
+        "lever"
+      ]
+    },
     "fp:9121b62a368cf786": {
       "first_seen": "2026-11-04",
       "last_seen": "2026-11-04",
@@ -1008,6 +1038,16 @@
       "job_id": "4f78ba68a5d667447496672d",
       "sources": [
         "hn_whos_hiring"
+      ]
+    },
+    "fp:94ec805a89c4c26b": {
+      "first_seen": "2026-11-07",
+      "last_seen": "2026-11-07",
+      "company": "notion",
+      "role": "Software Engineering Intern, iOS (Summer 2027)",
+      "job_id": "37acf41993e2b3d2df82ca81",
+      "sources": [
+        "ashby"
       ]
     },
     "fp:9517d9d23f7633c3": {
@@ -1170,6 +1210,16 @@
         "ashby"
       ]
     },
+    "fp:a700d291f2124ec6": {
+      "first_seen": "2026-11-07",
+      "last_seen": "2026-11-07",
+      "company": "matchgroup",
+      "role": "Data Science Internship",
+      "job_id": "1d1ea4ad3460f963d8f30179",
+      "sources": [
+        "lever"
+      ]
+    },
     "fp:a76fa6c8b5169c71": {
       "first_seen": "2026-10-30",
       "last_seen": "2026-10-30",
@@ -1330,16 +1380,6 @@
         "hn_whos_hiring"
       ]
     },
-    "fp:bd7956f8ea2b2222": {
-      "first_seen": "2026-10-07",
-      "last_seen": "2026-10-07",
-      "company": "Luxoft",
-      "role": "Automation Test Engineer - C#+Selenium",
-      "job_id": "82571003270683bf0546ee08",
-      "sources": [
-        "linkedin"
-      ]
-    },
     "fp:bda5808c2c6e52fb": {
       "first_seen": "2026-10-13",
       "last_seen": "2026-10-13",
@@ -1490,6 +1530,16 @@
         "linkedin"
       ]
     },
+    "fp:d8cad3a2edd268f2": {
+      "first_seen": "2026-11-07",
+      "last_seen": "2026-11-07",
+      "company": "matchgroup",
+      "role": "Backend Engineer Intern",
+      "job_id": "d46285080e312b9d19e5a3ab",
+      "sources": [
+        "lever"
+      ]
+    },
     "fp:dbbf3e244735b5a1": {
       "first_seen": "2026-10-20",
       "last_seen": "2026-10-20",
@@ -1508,16 +1558,6 @@
       "job_id": "2692808f629cb21c187986bb",
       "sources": [
         "greenhouse"
-      ]
-    },
-    "fp:e217453cc0803da7": {
-      "first_seen": "2026-10-07",
-      "last_seen": "2026-10-07",
-      "company": "Coder",
-      "role": "Unknown role",
-      "job_id": "7a27c87b2dec747f75d6f249",
-      "sources": [
-        "hn_whos_hiring"
       ]
     },
     "fp:e58743ec6b374750": {
@@ -1668,16 +1708,6 @@
       "job_id": "5afff3efdbea585484a93cd6",
       "sources": [
         "hn_whos_hiring"
-      ]
-    },
-    "fp:ff2d8dfb42c45b06": {
-      "first_seen": "2026-10-07",
-      "last_seen": "2026-10-07",
-      "company": "JPMorganChase",
-      "role": "Software Engineer II - Agentic AI, Java , AWS , Springboot , Kafka",
-      "job_id": "30476df908d6178ed0f474a1",
-      "sources": [
-        "linkedin"
       ]
     },
     "fp:ff4b6c69b1e185fe": {
