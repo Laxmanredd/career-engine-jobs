@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-11-08T03:32:14",
+  "updated": "2026-11-09T03:31:54",
   "entries": {
     "017c040d9761ad9d21081b1b": {},
     "03142fe3103fafe884e5ef45": {},
@@ -240,16 +240,6 @@
         "hn_whos_hiring"
       ]
     },
-    "fp:24a023652fbcb5bc": {
-      "first_seen": "2026-10-09",
-      "last_seen": "2026-10-09",
-      "company": "Capco",
-      "role": "Data Analyst - GCP Big query",
-      "job_id": "50f1faa6b884a9a8fe35faa8",
-      "sources": [
-        "linkedin"
-      ]
-    },
     "fp:24ee79794a49789c": {
       "first_seen": "2026-10-12",
       "last_seen": "2026-10-12",
@@ -291,8 +281,8 @@
       ]
     },
     "fp:2d021a214a8a00c6": {
-      "first_seen": "2026-10-09",
-      "last_seen": "2026-10-09",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09",
       "company": "Neudesic Technologies Private Limited",
       "role": "QA Automation Consultant",
       "job_id": "e5115f99e82d251eb6e44a76",
@@ -830,16 +820,6 @@
         "hn_whos_hiring"
       ]
     },
-    "fp:7acfb33023ef7347": {
-      "first_seen": "2026-10-09",
-      "last_seen": "2026-10-09",
-      "company": "parallelwireless",
-      "role": "Junior Automation Engineer",
-      "job_id": "56631d5c13d7010475ee2a3a",
-      "sources": [
-        "lever"
-      ]
-    },
     "fp:7ae2a22631cc6c53": {
       "first_seen": "2026-11-06",
       "last_seen": "2026-11-06",
@@ -858,6 +838,16 @@
       "job_id": "dbc09dd4e16695173fa250f4",
       "sources": [
         "hn_whos_hiring"
+      ]
+    },
+    "fp:7c568b3094bcb3cb": {
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09",
+      "company": "Evlo AI",
+      "role": "Data Analyst",
+      "job_id": "95a4d946426a1371a8c045d0",
+      "sources": [
+        "linkedin"
       ]
     },
     "fp:7ceb199c04a3f584": {
@@ -1140,16 +1130,6 @@
         "linkedin"
       ]
     },
-    "fp:a3f32886147efd65": {
-      "first_seen": "2026-10-09",
-      "last_seen": "2026-10-09",
-      "company": "Capgemini Engineering",
-      "role": "QA Automation Engineer",
-      "job_id": "a21a812fa71468842d557777",
-      "sources": [
-        "linkedin"
-      ]
-    },
     "fp:a4b395ac55337cc9": {
       "first_seen": "2026-11-02",
       "last_seen": "2026-11-02",
@@ -1260,16 +1240,6 @@
         "linkedin"
       ]
     },
-    "fp:b2346e3f35d213de": {
-      "first_seen": "2026-10-09",
-      "last_seen": "2026-10-09",
-      "company": "Evlo AI",
-      "role": "Business Data Analyst",
-      "job_id": "370b1dcd258604f034ae7038",
-      "sources": [
-        "linkedin"
-      ]
-    },
     "fp:b2895bfa2a7f0333": {
       "first_seen": "2026-11-04",
       "last_seen": "2026-11-04",
@@ -1368,6 +1338,16 @@
       "job_id": "2fb9d46e7bd876b595f64287",
       "sources": [
         "hn_whos_hiring"
+      ]
+    },
+    "fp:be0319eba6bba917": {
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09",
+      "company": "Evlo AI",
+      "role": "Business Data Analyst",
+      "job_id": "67d30f9a05edd0b31c79b952",
+      "sources": [
+        "linkedin"
       ]
     },
     "fp:c0a3a42dccd7d5c3": {
