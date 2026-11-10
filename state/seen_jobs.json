@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-11-09T03:31:54",
+  "updated": "2026-11-10T03:32:24",
   "entries": {
     "017c040d9761ad9d21081b1b": {},
     "03142fe3103fafe884e5ef45": {},
@@ -440,16 +440,6 @@
         "hn_whos_hiring"
       ]
     },
-    "fp:4066170b7fc9c28a": {
-      "first_seen": "2026-10-10",
-      "last_seen": "2026-10-10",
-      "company": "Valeo Health ME",
-      "role": "Data Analyst",
-      "job_id": "f7a8fb5d6ee4f8a6561adc50",
-      "sources": [
-        "linkedin"
-      ]
-    },
     "fp:42f33a741594b624": {
       "first_seen": "2026-11-03",
       "last_seen": "2026-11-03",
@@ -498,16 +488,6 @@
       "job_id": "69457e20a0f5d90ac78b2c43",
       "sources": [
         "greenhouse"
-      ]
-    },
-    "fp:4d273d3ca5cf5149": {
-      "first_seen": "2026-10-10",
-      "last_seen": "2026-10-10",
-      "company": "cursor",
-      "role": "Software Engineer, Grok Connectors ",
-      "job_id": "893f7336ab4b85756d6f8417",
-      "sources": [
-        "ashby"
       ]
     },
     "fp:4eab2869bb49be3c": {
@@ -690,6 +670,16 @@
         "linkedin"
       ]
     },
+    "fp:69210d2c5337a0d5": {
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-10",
+      "company": "notion",
+      "role": "Software Engineer, Web Infrastructure",
+      "job_id": "654c6eb821baff0d3f512150",
+      "sources": [
+        "ashby"
+      ]
+    },
     "fp:6a155830e94bbef2": {
       "first_seen": "2026-11-02",
       "last_seen": "2026-11-02",
@@ -728,16 +718,6 @@
       "job_id": "0de902887127cbf3989f6917",
       "sources": [
         "hn_whos_hiring"
-      ]
-    },
-    "fp:74b7997a85b2a172": {
-      "first_seen": "2026-10-10",
-      "last_seen": "2026-10-10",
-      "company": "Hr Actowiz Solutions",
-      "role": "LLM Engineer",
-      "job_id": "5e8ba86a3191519f2a559572",
-      "sources": [
-        "linkedin"
       ]
     },
     "fp:74bc44b3e9ec466d": {
@@ -1418,16 +1398,6 @@
       "job_id": "978564d1e9c321160053b654",
       "sources": [
         "ashby"
-      ]
-    },
-    "fp:d10f30cc427bdb6f": {
-      "first_seen": "2026-10-10",
-      "last_seen": "2026-10-10",
-      "company": "experienceflyover.com",
-      "role": "Chicago, Las Vegas",
-      "job_id": "b46620e34dde87b50533ad3e",
-      "sources": [
-        "hn_whos_hiring"
       ]
     },
     "fp:d41aa6be0f3903a4": {
