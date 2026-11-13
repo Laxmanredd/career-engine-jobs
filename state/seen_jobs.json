@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-11-12T03:32:12",
+  "updated": "2026-11-13T03:31:57",
   "entries": {
     "017c040d9761ad9d21081b1b": {},
     "03142fe3103fafe884e5ef45": {},
@@ -131,8 +131,8 @@
       ]
     },
     "fp:0c141d9e9371646f": {
-      "first_seen": "2026-10-13",
-      "last_seen": "2026-10-13",
+      "first_seen": "2026-11-13",
+      "last_seen": "2026-11-13",
       "company": "videosdk.live",
       "role": "Machine Learning Engineer",
       "job_id": "ce65021f516d035cb8209cba",
@@ -158,6 +158,16 @@
       "job_id": "9b9a63fcb274eddd9ad690ae",
       "sources": [
         "hn_whos_hiring"
+      ]
+    },
+    "fp:15b91a06ed9498f5": {
+      "first_seen": "2026-11-13",
+      "last_seen": "2026-11-13",
+      "company": "ind\u0113 wild",
+      "role": "Junior Data Analyst",
+      "job_id": "2680491e68794cadb466ed83",
+      "sources": [
+        "linkedin"
       ]
     },
     "fp:16f6afa85316f30c": {
@@ -460,6 +470,16 @@
         "greenhouse"
       ]
     },
+    "fp:4e2d481d4fbebd9e": {
+      "first_seen": "2026-11-13",
+      "last_seen": "2026-11-13",
+      "company": "Genentech",
+      "role": "2027 Interns",
+      "job_id": "4e5d140747dd3bcd73d1d4ad",
+      "sources": [
+        "hn_whos_hiring"
+      ]
+    },
     "fp:4eab2869bb49be3c": {
       "first_seen": "2026-11-02",
       "last_seen": "2026-11-02",
@@ -590,6 +610,16 @@
         "hn_whos_hiring"
       ]
     },
+    "fp:603780e5e157e130": {
+      "first_seen": "2026-11-13",
+      "last_seen": "2026-11-13",
+      "company": "ImagineArt",
+      "role": "Associate Machine Learning Engineer",
+      "job_id": "caccfbf89978d7431e13ac33",
+      "sources": [
+        "linkedin"
+      ]
+    },
     "fp:6234763c532f9ae9": {
       "first_seen": "2026-11-03",
       "last_seen": "2026-11-03",
@@ -631,8 +661,8 @@
       ]
     },
     "fp:67f140bbfc26850e": {
-      "first_seen": "2026-10-13",
-      "last_seen": "2026-10-13",
+      "first_seen": "2026-11-13",
+      "last_seen": "2026-11-13",
       "company": "Wynisco Inc.",
       "role": "Data Analyst",
       "job_id": "1fcc092cf7766992ff9c4605",
@@ -678,16 +708,6 @@
       "job_id": "586b8b13cb63c0e337076b81",
       "sources": [
         "lever"
-      ]
-    },
-    "fp:71040216bd21bd98": {
-      "first_seen": "2026-10-13",
-      "last_seen": "2026-10-13",
-      "company": "StartupHakk",
-      "role": "AI Engineer Apprentice",
-      "job_id": "0de902887127cbf3989f6917",
-      "sources": [
-        "hn_whos_hiring"
       ]
     },
     "fp:74bc44b3e9ec466d": {
@@ -1330,16 +1350,6 @@
         "hn_whos_hiring"
       ]
     },
-    "fp:bda5808c2c6e52fb": {
-      "first_seen": "2026-10-13",
-      "last_seen": "2026-10-13",
-      "company": "Typify.dev",
-      "role": "AI Application Engineer + Product Engineer",
-      "job_id": "2205629a6a0719017e1382f1",
-      "sources": [
-        "hn_whos_hiring"
-      ]
-    },
     "fp:be00f8c998119b7c": {
       "first_seen": "2026-11-03",
       "last_seen": "2026-11-03",
@@ -1440,6 +1450,16 @@
         "ashby"
       ]
     },
+    "fp:d2a325b5cd35e395": {
+      "first_seen": "2026-11-13",
+      "last_seen": "2026-11-13",
+      "company": "FactoFlare AI",
+      "role": "Machine Learning Engineer",
+      "job_id": "d34f53201f947a2615cabb8f",
+      "sources": [
+        "linkedin"
+      ]
+    },
     "fp:d41aa6be0f3903a4": {
       "first_seen": "2026-11-02",
       "last_seen": "2026-11-02",
@@ -1458,16 +1478,6 @@
       "job_id": "bfafb67b6351a05b7122e560",
       "sources": [
         "hn_whos_hiring"
-      ]
-    },
-    "fp:d75c96caffe3a837": {
-      "first_seen": "2026-10-13",
-      "last_seen": "2026-10-13",
-      "company": "Evlo AI",
-      "role": "Data Analyst",
-      "job_id": "22f513c3053f65fb0ac38600",
-      "sources": [
-        "linkedin"
       ]
     },
     "fp:d82db9ca6f8014ff": {
@@ -1521,8 +1531,8 @@
       ]
     },
     "fp:eb51de5b530ed43e": {
-      "first_seen": "2026-10-13",
-      "last_seen": "2026-10-13",
+      "first_seen": "2026-11-13",
+      "last_seen": "2026-11-13",
       "company": "LodgIQ",
       "role": "Machine Learning Engineer",
       "job_id": "f78e35218ae4c87d7b2633d5",
