@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-11-13T03:31:57",
+  "updated": "2026-11-14T03:32:10",
   "entries": {
     "017c040d9761ad9d21081b1b": {},
     "03142fe3103fafe884e5ef45": {},
@@ -218,6 +218,16 @@
       "job_id": "1c42fbc7665f5ca0f4b32b91",
       "sources": [
         "hn_whos_hiring"
+      ]
+    },
+    "fp:1f432f5f44266ac9": {
+      "first_seen": "2026-11-14",
+      "last_seen": "2026-11-14",
+      "company": "cursor",
+      "role": "Model Engineer, RL Data",
+      "job_id": "be279cfa99876126fbd0aa3e",
+      "sources": [
+        "ashby"
       ]
     },
     "fp:20870df9b067c0bd": {
@@ -1150,6 +1160,16 @@
         "linkedin"
       ]
     },
+    "fp:a3f32886147efd65": {
+      "first_seen": "2026-11-14",
+      "last_seen": "2026-11-14",
+      "company": "Capgemini Engineering",
+      "role": "QA Automation Engineer",
+      "job_id": "a21a812fa71468842d557777",
+      "sources": [
+        "linkedin"
+      ]
+    },
     "fp:a4b395ac55337cc9": {
       "first_seen": "2026-11-02",
       "last_seen": "2026-11-02",
@@ -1178,16 +1198,6 @@
       "job_id": "eef5429ceb637d052b2eb4a4",
       "sources": [
         "linkedin"
-      ]
-    },
-    "fp:a640f5fad79b22fc": {
-      "first_seen": "2026-10-14",
-      "last_seen": "2026-10-14",
-      "company": "cursor",
-      "role": "Software Engineer, Pretraining Data ",
-      "job_id": "978564d1e9c321160053b654",
-      "sources": [
-        "ashby"
       ]
     },
     "fp:a700d291f2124ec6": {
@@ -1318,6 +1328,16 @@
       "job_id": "50d76c87bfdcbfc27eb16e37",
       "sources": [
         "ashby"
+      ]
+    },
+    "fp:b66e61bfa0b1a179": {
+      "first_seen": "2026-11-14",
+      "last_seen": "2026-11-14",
+      "company": "Shodh AI",
+      "role": "AI/ML Engineer \u2014 Generative AI & LLMs",
+      "job_id": "bd425a36b73392c1ae137675",
+      "sources": [
+        "linkedin"
       ]
     },
     "fp:b67486168522d2bf": {
@@ -1528,6 +1548,16 @@
       "job_id": "ae634d90ca29a6402f7136c8",
       "sources": [
         "ashby"
+      ]
+    },
+    "fp:e6d5dc87fdb4dc9c": {
+      "first_seen": "2026-11-14",
+      "last_seen": "2026-11-14",
+      "company": "Fullstack Talents | IT Talent Solutions",
+      "role": "AI Engineer \u2013 Own the Agentic AI Core | Python & TypeScript | Stockholm Startup | \u20ac110k + Equity",
+      "job_id": "eb6896af82ee955317e69c6f",
+      "sources": [
+        "linkedin"
       ]
     },
     "fp:eb51de5b530ed43e": {
