@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-11-14T03:32:10",
+  "updated": "2026-11-15T03:31:58",
   "entries": {
     "017c040d9761ad9d21081b1b": {},
     "03142fe3103fafe884e5ef45": {},
@@ -920,16 +920,6 @@
         "greenhouse"
       ]
     },
-    "fp:890c3c050cbb9dc1": {
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-10-15",
-      "company": "3Gimbals",
-      "role": "Unknown role",
-      "job_id": "6b2ee86867bb489284bcf2b6",
-      "sources": [
-        "hn_whos_hiring"
-      ]
-    },
     "fp:8a5da8020aeeba35": {
       "first_seen": "2026-10-28",
       "last_seen": "2026-10-28",
@@ -1538,6 +1528,16 @@
       "job_id": "2692808f629cb21c187986bb",
       "sources": [
         "greenhouse"
+      ]
+    },
+    "fp:dcb0c62a0816addb": {
+      "first_seen": "2026-11-15",
+      "last_seen": "2026-11-15",
+      "company": "Early-stage Startup",
+      "role": "Software Engineer & Data Analyst",
+      "job_id": "fc791cdced289b1d3507f266",
+      "sources": [
+        "hn_whos_hiring"
       ]
     },
     "fp:e58743ec6b374750": {
