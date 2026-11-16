@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-11-15T03:31:58",
+  "updated": "2026-11-16T03:31:53",
   "entries": {
     "017c040d9761ad9d21081b1b": {},
     "03142fe3103fafe884e5ef45": {},
@@ -108,16 +108,6 @@
       "job_id": "e3c0fcbbb50902bc85dd099d",
       "sources": [
         "ashby"
-      ]
-    },
-    "fp:0a0d579d81deb6ea": {
-      "first_seen": "2026-10-16",
-      "last_seen": "2026-10-16",
-      "company": "BillCut",
-      "role": "Data Analyst",
-      "job_id": "1958ee52b94539d503833fa4",
-      "sources": [
-        "linkedin"
       ]
     },
     "fp:0c08fbf8d98c1836": {
@@ -508,16 +498,6 @@
       "job_id": "caecb230f168a36b54dd86b4",
       "sources": [
         "ashby"
-      ]
-    },
-    "fp:511e7c73485ef48b": {
-      "first_seen": "2026-10-16",
-      "last_seen": "2026-10-16",
-      "company": "Treat Health",
-      "role": "Full-stack Engineer (Elixir, Phoenix LiveView, React)",
-      "job_id": "8989b776fb32d48a73e24ef5",
-      "sources": [
-        "hn_whos_hiring"
       ]
     },
     "fp:52906c129c6935b8": {
