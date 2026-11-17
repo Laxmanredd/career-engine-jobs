@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-11-16T03:31:53",
+  "updated": "2026-11-17T03:31:50",
   "entries": {
     "017c040d9761ad9d21081b1b": {},
     "03142fe3103fafe884e5ef45": {},
@@ -418,6 +418,16 @@
       "job_id": "0fe9e5ca3dc0cf3ed36fc720",
       "sources": [
         "ashby"
+      ]
+    },
+    "fp:42341e3472f4dc26": {
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-17",
+      "company": "Erica Holloway",
+      "role": "Talent Sourcer",
+      "job_id": "4d79b74a639d4c77e2e1d7ef",
+      "sources": [
+        "hn_whos_hiring"
       ]
     },
     "fp:42f33a741594b624": {
