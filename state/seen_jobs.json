@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-11-17T03:31:50",
+  "updated": "2026-11-18T03:31:41",
   "entries": {
     "017c040d9761ad9d21081b1b": {},
     "03142fe3103fafe884e5ef45": {},
@@ -138,6 +138,16 @@
       "job_id": "557ce8303dc5383209a4c9c8",
       "sources": [
         "linkedin"
+      ]
+    },
+    "fp:0c55bcb46bc4c3b6": {
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-18",
+      "company": "notion",
+      "role": "Market Researcher",
+      "job_id": "ea605db7d8f49326f43c637a",
+      "sources": [
+        "ashby"
       ]
     },
     "fp:0c925b94b69c88fd": {
@@ -356,16 +366,6 @@
       "company": "Cisco",
       "role": "Software QA Engineer - AI Automation Testing (Robot/Playwright), 4-9 Yrs exp, Bangalore",
       "job_id": "afc8d45f74d36da551ff6e15",
-      "sources": [
-        "linkedin"
-      ]
-    },
-    "fp:3bef21295c4e5281": {
-      "first_seen": "2026-10-18",
-      "last_seen": "2026-10-18",
-      "company": "STAN AI",
-      "role": "Data Analyst",
-      "job_id": "ff0b3f1b241344f5c33ab0ee",
       "sources": [
         "linkedin"
       ]
@@ -1278,26 +1278,6 @@
       "job_id": "b76080eb51274c839a12c265",
       "sources": [
         "hn_whos_hiring"
-      ]
-    },
-    "fp:b37b0538185cfe2b": {
-      "first_seen": "2026-10-18",
-      "last_seen": "2026-10-18",
-      "company": "Unknown",
-      "role": "Deep Learning Engineer \u2013 Healthcare AI (0\u20135 Years)",
-      "job_id": "7af7f7279d9f91074e0e0650",
-      "sources": [
-        "linkedin"
-      ]
-    },
-    "fp:b448ba31280c0c3a": {
-      "first_seen": "2026-10-18",
-      "last_seen": "2026-10-18",
-      "company": "Murphy AI",
-      "role": "Product Data Analyst",
-      "job_id": "edc68c6b45142c48e7095d4d",
-      "sources": [
-        "linkedin"
       ]
     },
     "fp:b54cb24910aa11e9": {
