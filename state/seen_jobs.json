@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-11-18T03:31:41",
+  "updated": "2026-11-19T03:31:56",
   "entries": {
     "017c040d9761ad9d21081b1b": {},
     "03142fe3103fafe884e5ef45": {},
@@ -690,6 +690,16 @@
         "hn_whos_hiring"
       ]
     },
+    "fp:6a405f92fbfcb929": {
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "company": "MailerMen",
+      "role": "AI / Machine Learning Engineer",
+      "job_id": "356895d2f3ac5dfd30f696bc",
+      "sources": [
+        "linkedin"
+      ]
+    },
     "fp:6cf79819245ab7a4": {
       "first_seen": "2026-11-03",
       "last_seen": "2026-11-03",
@@ -1260,6 +1270,16 @@
         "linkedin"
       ]
     },
+    "fp:b1c96270cf9369b8": {
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "company": "Capgemini Engineering",
+      "role": "Test Automation Engineer",
+      "job_id": "985fb23d8a7321a64a434f82",
+      "sources": [
+        "linkedin"
+      ]
+    },
     "fp:b2895bfa2a7f0333": {
       "first_seen": "2026-11-04",
       "last_seen": "2026-11-04",
@@ -1638,6 +1658,16 @@
       "job_id": "a624de591d0fa7de8943ec74",
       "sources": [
         "yc"
+      ]
+    },
+    "fp:fc1e4c87dfa36806": {
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "company": "MailerMen",
+      "role": "AI / Machine Learning Engineer",
+      "job_id": "fd65c5bf00b10bbe5bd95f4a",
+      "sources": [
+        "linkedin"
       ]
     },
     "fp:fd4e52e967c36130": {
