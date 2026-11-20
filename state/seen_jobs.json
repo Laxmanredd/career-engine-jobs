@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-11-19T03:31:56",
+  "updated": "2026-11-20T03:31:52",
   "entries": {
     "017c040d9761ad9d21081b1b": {},
     "03142fe3103fafe884e5ef45": {},
@@ -240,16 +240,6 @@
         "hn_whos_hiring"
       ]
     },
-    "fp:277816b6e01351f1": {
-      "first_seen": "2026-10-20",
-      "last_seen": "2026-10-20",
-      "company": "cursor",
-      "role": "Software Engineer, Research Tooling",
-      "job_id": "c2a8cb818e3848f59bd0c1f9",
-      "sources": [
-        "ashby"
-      ]
-    },
     "fp:2835a04542dbb805": {
       "first_seen": "2026-11-03",
       "last_seen": "2026-11-03",
@@ -451,8 +441,8 @@
       ]
     },
     "fp:450bfc2014311c36": {
-      "first_seen": "2026-10-20",
-      "last_seen": "2026-10-20",
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20",
       "company": "matchgroup",
       "role": "Data Product Engineer, Data Enabling",
       "job_id": "d8d8e2c903fc75777b5bc453",
@@ -751,8 +741,8 @@
       ]
     },
     "fp:76fedf61c0f2b29c": {
-      "first_seen": "2026-10-20",
-      "last_seen": "2026-10-20",
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20",
       "company": "scaleai",
       "role": "Machine Learning Research Intern (Summer 2027)",
       "job_id": "b5b51ba7a0e6ace6f059d8cf",
@@ -1440,16 +1430,6 @@
         "hn_whos_hiring"
       ]
     },
-    "fp:c97b799c907fa8d6": {
-      "first_seen": "2026-10-20",
-      "last_seen": "2026-10-20",
-      "company": "cursor",
-      "role": "Software Engineer, Pretraining Data ",
-      "job_id": "978564d1e9c321160053b654",
-      "sources": [
-        "ashby"
-      ]
-    },
     "fp:d2a325b5cd35e395": {
       "first_seen": "2026-11-13",
       "last_seen": "2026-11-13",
@@ -1500,16 +1480,6 @@
         "lever"
       ]
     },
-    "fp:dbbf3e244735b5a1": {
-      "first_seen": "2026-10-20",
-      "last_seen": "2026-10-20",
-      "company": "cursor",
-      "role": "Software Engineer, ML Platform",
-      "job_id": "fd7648730f4f6545e6064f56",
-      "sources": [
-        "ashby"
-      ]
-    },
     "fp:dbd9a182d10e6748": {
       "first_seen": "2026-11-06",
       "last_seen": "2026-11-06",
@@ -1546,6 +1516,16 @@
       "company": "Fullstack Talents | IT Talent Solutions",
       "role": "AI Engineer \u2013 Own the Agentic AI Core | Python & TypeScript | Stockholm Startup | \u20ac110k + Equity",
       "job_id": "eb6896af82ee955317e69c6f",
+      "sources": [
+        "linkedin"
+      ]
+    },
+    "fp:e71b6f3f38de3b01": {
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20",
+      "company": "Wipro",
+      "role": "DATA ANALYST L4",
+      "job_id": "a68273024848eecebf0f9e22",
       "sources": [
         "linkedin"
       ]
