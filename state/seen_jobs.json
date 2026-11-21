@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-11-20T03:31:52",
+  "updated": "2026-11-21T03:32:12",
   "entries": {
     "017c040d9761ad9d21081b1b": {},
     "03142fe3103fafe884e5ef45": {},
@@ -240,6 +240,16 @@
         "hn_whos_hiring"
       ]
     },
+    "fp:25cc6b2237d90fe1": {
+      "first_seen": "2026-11-21",
+      "last_seen": "2026-11-21",
+      "company": "Evlo AI",
+      "role": "Business Data Analyst",
+      "job_id": "66d55a74de96c9908d165c84",
+      "sources": [
+        "linkedin"
+      ]
+    },
     "fp:2835a04542dbb805": {
       "first_seen": "2026-11-03",
       "last_seen": "2026-11-03",
@@ -348,16 +358,6 @@
       "job_id": "145ca15b083712ad9dddba51",
       "sources": [
         "hn_whos_hiring"
-      ]
-    },
-    "fp:3a049a8386a896b2": {
-      "first_seen": "2026-10-21",
-      "last_seen": "2026-10-21",
-      "company": "Cisco",
-      "role": "Software QA Engineer - AI Automation Testing (Robot/Playwright), 4-9 Yrs exp, Bangalore",
-      "job_id": "afc8d45f74d36da551ff6e15",
-      "sources": [
-        "linkedin"
       ]
     },
     "fp:3c7bc629ae5a7c84": {
@@ -540,16 +540,6 @@
         "hn_whos_hiring"
       ]
     },
-    "fp:5618a0caeb0048df": {
-      "first_seen": "2026-10-21",
-      "last_seen": "2026-10-21",
-      "company": "Humyn Labs",
-      "role": "Data Analyst",
-      "job_id": "0b7086b582c10e79d5ddb8fd",
-      "sources": [
-        "linkedin"
-      ]
-    },
     "fp:5673c1100a2d0839": {
       "first_seen": "2026-11-03",
       "last_seen": "2026-11-03",
@@ -558,6 +548,16 @@
       "job_id": "8d5cb12bc652ebd3a6dac1bd",
       "sources": [
         "hn_whos_hiring"
+      ]
+    },
+    "fp:57d5d83519b6368e": {
+      "first_seen": "2026-11-21",
+      "last_seen": "2026-11-21",
+      "company": "ThinkerMesh",
+      "role": "Applied Machine Learning Engineer",
+      "job_id": "39d0b651e376179d98b970d8",
+      "sources": [
+        "linkedin"
       ]
     },
     "fp:59b72d17771c679b": {
@@ -711,8 +711,8 @@
       ]
     },
     "fp:74bc44b3e9ec466d": {
-      "first_seen": "2026-10-21",
-      "last_seen": "2026-10-21",
+      "first_seen": "2026-11-21",
+      "last_seen": "2026-11-21",
       "company": "parallelwireless",
       "role": "PHY SW Engineer - 12 Month Internship (July 2027)",
       "job_id": "ed0fedb66e6959a2d95108a2",
@@ -1546,6 +1546,16 @@
       "company": "Heads Up For Tails",
       "role": "Jr Data Analyst",
       "job_id": "58db2f457c005bb446366c19",
+      "sources": [
+        "linkedin"
+      ]
+    },
+    "fp:ebe2187db6ad7cf5": {
+      "first_seen": "2026-11-21",
+      "last_seen": "2026-11-21",
+      "company": "TerraTern",
+      "role": "Data Analyst",
+      "job_id": "14b4a1abf5400576f2c5b271",
       "sources": [
         "linkedin"
       ]
