@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-11-23T03:31:44",
+  "updated": "2026-11-24T03:31:44",
   "entries": {
     "017c040d9761ad9d21081b1b": {},
     "03142fe3103fafe884e5ef45": {},
@@ -126,16 +126,6 @@
       "company": "videosdk.live",
       "role": "Machine Learning Engineer",
       "job_id": "ce65021f516d035cb8209cba",
-      "sources": [
-        "linkedin"
-      ]
-    },
-    "fp:0c43c857ee964755": {
-      "first_seen": "2026-10-24",
-      "last_seen": "2026-10-24",
-      "company": "Resollect",
-      "role": "Data Analyst",
-      "job_id": "557ce8303dc5383209a4c9c8",
       "sources": [
         "linkedin"
       ]
@@ -890,6 +880,16 @@
         "hn_whos_hiring"
       ]
     },
+    "fp:853c51e0ee0c8114": {
+      "first_seen": "2026-11-24",
+      "last_seen": "2026-11-24",
+      "company": "parallelwireless",
+      "role": "RF Engineer",
+      "job_id": "ad0bc46edebcde443b2ff0aa",
+      "sources": [
+        "lever"
+      ]
+    },
     "fp:85f08f68ed55de58": {
       "first_seen": "2026-11-06",
       "last_seen": "2026-11-06",
@@ -1430,6 +1430,16 @@
         "linkedin"
       ]
     },
+    "fp:d3e582919a723715": {
+      "first_seen": "2026-11-24",
+      "last_seen": "2026-11-24",
+      "company": "scaleai",
+      "role": "Machine Learning Fellow - Human Frontier Collective",
+      "job_id": "1d7a395d38030c5559ab84d1",
+      "sources": [
+        "greenhouse"
+      ]
+    },
     "fp:d41aa6be0f3903a4": {
       "first_seen": "2026-11-02",
       "last_seen": "2026-11-02",
@@ -1628,16 +1638,6 @@
       "job_id": "a27b7d93803a59489c34a454",
       "sources": [
         "ashby"
-      ]
-    },
-    "fp:f9576540e3f19303": {
-      "first_seen": "2026-10-24",
-      "last_seen": "2026-10-24",
-      "company": "Knowtex",
-      "role": "ML Engineer, LLM's",
-      "job_id": "a624de591d0fa7de8943ec74",
-      "sources": [
-        "yc"
       ]
     },
     "fp:fc1e4c87dfa36806": {
