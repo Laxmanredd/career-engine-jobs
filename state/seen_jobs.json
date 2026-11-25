@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-11-24T03:31:44",
+  "updated": "2026-11-25T03:31:41",
   "entries": {
     "017c040d9761ad9d21081b1b": {},
     "03142fe3103fafe884e5ef45": {},
@@ -1240,16 +1240,6 @@
         "hn_whos_hiring"
       ]
     },
-    "fp:b01c022f5e8f7d24": {
-      "first_seen": "2026-10-25",
-      "last_seen": "2026-10-25",
-      "company": "Evlo AI",
-      "role": "Data Analyst",
-      "job_id": "90668cfb204dd74b41928184",
-      "sources": [
-        "linkedin"
-      ]
-    },
     "fp:b1c96270cf9369b8": {
       "first_seen": "2026-11-19",
       "last_seen": "2026-11-19",
@@ -1460,16 +1450,6 @@
         "hn_whos_hiring"
       ]
     },
-    "fp:d82db9ca6f8014ff": {
-      "first_seen": "2026-10-25",
-      "last_seen": "2026-10-25",
-      "company": "Air Apps",
-      "role": "Data Analyst",
-      "job_id": "a9325ec5b746daddfcc487be",
-      "sources": [
-        "linkedin"
-      ]
-    },
     "fp:d8cad3a2edd268f2": {
       "first_seen": "2026-11-07",
       "last_seen": "2026-11-07",
@@ -1608,16 +1588,6 @@
       "job_id": "e3c0fcbbb50902bc85dd099d",
       "sources": [
         "ashby"
-      ]
-    },
-    "fp:f68d87c84b194e4b": {
-      "first_seen": "2026-10-25",
-      "last_seen": "2026-10-25",
-      "company": "Evlo AI",
-      "role": "Data Analyst",
-      "job_id": "1caa36d8eddfad082f823447",
-      "sources": [
-        "linkedin"
       ]
     },
     "fp:f6a26ab52a9c287a": {
