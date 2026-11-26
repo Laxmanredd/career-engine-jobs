@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-11-25T03:31:41",
+  "updated": "2026-11-26T03:31:46",
   "entries": {
     "017c040d9761ad9d21081b1b": {},
     "03142fe3103fafe884e5ef45": {},
@@ -350,6 +350,16 @@
         "hn_whos_hiring"
       ]
     },
+    "fp:3c68f07edad4a73b": {
+      "first_seen": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "company": "scaleai",
+      "role": "Support Systems Specialist (Zendesk, Routing & Analytics)",
+      "job_id": "d76acb15c379a779bf1c70a9",
+      "sources": [
+        "greenhouse"
+      ]
+    },
     "fp:3c7bc629ae5a7c84": {
       "first_seen": "2026-10-29",
       "last_seen": "2026-10-29",
@@ -546,6 +556,16 @@
       "company": "ThinkerMesh",
       "role": "Applied Machine Learning Engineer",
       "job_id": "39d0b651e376179d98b970d8",
+      "sources": [
+        "linkedin"
+      ]
+    },
+    "fp:57dc94271fb7823d": {
+      "first_seen": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "company": "Jumpstart",
+      "role": "Data Analyst at VC backed AI startups (\u00a350-65k)",
+      "job_id": "1c9b3653cbf16b4b754997e2",
       "sources": [
         "linkedin"
       ]
@@ -1450,6 +1470,16 @@
         "hn_whos_hiring"
       ]
     },
+    "fp:d82db9ca6f8014ff": {
+      "first_seen": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "company": "Air Apps",
+      "role": "Data Analyst",
+      "job_id": "a9325ec5b746daddfcc487be",
+      "sources": [
+        "linkedin"
+      ]
+    },
     "fp:d8cad3a2edd268f2": {
       "first_seen": "2026-11-07",
       "last_seen": "2026-11-07",
@@ -1506,6 +1536,16 @@
       "company": "Wipro",
       "role": "DATA ANALYST L4",
       "job_id": "a68273024848eecebf0f9e22",
+      "sources": [
+        "linkedin"
+      ]
+    },
+    "fp:ea3f7e7a11e5b80f": {
+      "first_seen": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "company": "Jumpstart",
+      "role": "Data Analyst at VC backed Health Tech startups (\u00a350-65k)",
+      "job_id": "9464a1e5662205f80cac65b8",
       "sources": [
         "linkedin"
       ]
