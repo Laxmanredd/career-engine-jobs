@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-11-26T03:31:46",
+  "updated": "2026-11-27T03:31:45",
   "entries": {
     "017c040d9761ad9d21081b1b": {},
     "03142fe3103fafe884e5ef45": {},
@@ -68,16 +68,6 @@
       "job_id": "ca0a65a5f29429bf7496727c",
       "sources": [
         "hn_whos_hiring"
-      ]
-    },
-    "fp:0484e71665f64a58": {
-      "first_seen": "2026-10-27",
-      "last_seen": "2026-10-27",
-      "company": "Infosys",
-      "role": "Quality Assurance Automation Engineer (python+Selenium)",
-      "job_id": "35c6d3e5f77efcdf2dd7f8f4",
-      "sources": [
-        "linkedin"
       ]
     },
     "fp:0613abd3f72c6c07": {
@@ -318,16 +308,6 @@
       "job_id": "ae634d90ca29a6402f7136c8",
       "sources": [
         "ashby"
-      ]
-    },
-    "fp:36899f9282149373": {
-      "first_seen": "2026-10-27",
-      "last_seen": "2026-10-27",
-      "company": "Evlo AI",
-      "role": "Business Data Analyst",
-      "job_id": "a8b1c5ac2a50ce37ad722398",
-      "sources": [
-        "linkedin"
       ]
     },
     "fp:36f977fcb25c44e5": {
@@ -1300,6 +1280,16 @@
         "ashby"
       ]
     },
+    "fp:b5d143649b1e3f47": {
+      "first_seen": "2026-11-27",
+      "last_seen": "2026-11-27",
+      "company": "Scoutit",
+      "role": "Data Analyst",
+      "job_id": "f5c7dd57050af9c1e8ca97df",
+      "sources": [
+        "linkedin"
+      ]
+    },
     "fp:b66e61bfa0b1a179": {
       "first_seen": "2026-11-14",
       "last_seen": "2026-11-14",
@@ -1580,16 +1570,6 @@
         "linkedin"
       ]
     },
-    "fp:ed228a02f450d7a6": {
-      "first_seen": "2026-10-27",
-      "last_seen": "2026-10-27",
-      "company": "Evlo AI",
-      "role": "Data Analyst",
-      "job_id": "b99f067bb6a766ad0bf85dcb",
-      "sources": [
-        "linkedin"
-      ]
-    },
     "fp:f016e651fbac0ce9": {
       "first_seen": "2026-10-30",
       "last_seen": "2026-10-30",
@@ -1601,8 +1581,8 @@
       ]
     },
     "fp:f2e8c3ceda66f6c0": {
-      "first_seen": "2026-10-27",
-      "last_seen": "2026-10-27",
+      "first_seen": "2026-11-27",
+      "last_seen": "2026-11-27",
       "company": "Gabeo.ai",
       "role": "Machine Learning Engineer",
       "job_id": "a0015db24735125630225dc7",
